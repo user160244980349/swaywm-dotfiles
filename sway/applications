@@ -1,0 +1,34 @@
+
+set $term alacritty
+set $menu wofi --show drun
+set $lock $conf/lock.sh
+
+set $notifications  mako
+set $idle           swayidle -w \
+                    timeout 300 $lock \
+                    timeout 600 'swaymsg "output * dpms off"' \
+                    resume 'swaymsg "output * dpms on"' \
+                    before-sleep $lock
+
+set $volume_down    pactl set-sink-volume @DEFAULT_SINK@ -1%
+set $volume_up      pactl set-sink-volume @DEFAULT_SINK@ +1%
+set $volume_mute    pactl set-sink-mute @DEFAULT_SINK@ toggle
+set $mic_mute       pactl set-source-mute @DEFAULT_SOURCE@ toggle
+
+set $brightness_down    brightnessctl set 1%-
+set $brightness_up      brightnessctl set +1%
+
+set $media_play playerctl play-pause
+set $media_next playerctl next
+set $media_prev playerctl previous
+
+set $logout     swaymsg exit
+set $reboot     reboot
+set $poweroff   poweroff
+
+set $session swaynag -t warning \
+    -m 'You pressed the exit shortcut. Choose your way to exit.' \
+    -b 'Poweroff' 'poweroff' \
+    -b 'Reboot' 'reboot' \
+    -b 'Logout' 'swaymsg exit' \
+    -b 'Reload' 'swaymsg reload'
