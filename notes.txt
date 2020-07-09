@@ -1,0 +1,41 @@
+ 
+ # Dependencies
+ alacritty (terminal)
+ sway-git
+ swayidle
+ swaylock
+ libappindicator-gtk3 (tray)
+ mako (notifications)
+ wofi-hg (launcher)
+ waybar (infobar)
+ pulseaudio (sound)
+ pavucontrol (sound control)
+ brightnessctl (backlight control)
+
+ # Theming
+ awesome-terminal-fonts
+ otf-font-awesome
+ arc-gtk-theme
+ arc-icon-theme
+ qt5ct
+ kvantum-qt5
+
+ # Apps
+ zsh
+ htop 
+ ranger
+ vim
+ rhythmbox
+ transmission-gtk
+
+ # Wofi bug with term
+ Create a symbolic link to the alacritty and place it into /usr/bin
+
+ # To apply theme in GTK3
+ gtk-update-icon-cache $HOME/.icons/Arc
+ gsettings set org.gnome.desktop.interface gtk-theme "Arc-Dark"
+ gsettings set org.gnome.desktop.wm.preferences theme "Arc-Dark"
+
+ # TODO
+ 5. configure automount
+ 7. configure zsh

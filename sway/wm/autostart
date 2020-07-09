@@ -1,3 +1,0 @@
-
-exec $notifications
-exec $idle

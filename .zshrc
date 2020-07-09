@@ -12,9 +12,5 @@ compinit
 # End of lines added by compinstall
 
 if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
-	# Env vars
-	PYCHARM_JDK='/usr/lib/jvm/java-14-openjdk' \
-	_JAVA_AWT_WM_NONREPARENTING=1 \
-	MOZ_ENABLE_WAYLAND=1 \
 	exec sway &> $HOME/.swaylog
 fi

@@ -1,0 +1,25 @@
+
+font pango:Roboto 11
+
+default_border 			pixel 1
+default_floating_border pixel 1
+hide_edge_borders 		smart
+
+gaps {
+	inner 2
+	outer 2
+}
+smart_gaps on
+
+floating_modifier $mod normal
+
+for_window [app_id="pavucontrol"] 	floating enable
+
+# class                 border  backgr. text    indicator child_border
+client.focused          #64727D #64727D #ffffff #ffffff   #64727D
+client.focused_inactive #222222 #222222 #999999 #ffffff   #222222
+client.unfocused        #222222 #222222 #999999 #ffffff   #222222
+client.urgent           #eb4d4b #222222 #999999 #ffffff   #222222
+client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
+
+client.background       #000000
