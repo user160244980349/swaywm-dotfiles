@@ -37,12 +37,12 @@ window#waybar.chromium {
 }
 
 #workspaces button:hover {
-    background: rgba(0, 0, 0, 0.2);
+    background: #64727d;
     box-shadow: inherit;
 }
 
 #workspaces button.focused {
-    background-color: #64727D;
+    background-color: #3971ed;
 }
 
 #workspaces button.urgent {
@@ -50,7 +50,7 @@ window#waybar.chromium {
 }
 
 #mode {
-    background-color: #64727D;
+    background-color: #64727d;
 }
 
 #clock,

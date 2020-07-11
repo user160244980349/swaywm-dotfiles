@@ -1,7 +1,7 @@
 
 set $xresources xrdb ~/.Xresources
 set $lock       $conf/lock.sh
-set $term       alacritty
+set $term       termite
 set $menu       wofi
 
 set $notifications  mako

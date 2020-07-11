@@ -1,7 +1,6 @@
-gtk-theme-name="Arc-Dark"
-gtk-icon-theme-name="Arc"
+gtk-theme-name="Adwaita-dark"
+gtk-icon-theme-name="Adwaita"
 gtk-font-name="Roboto 11"
-gtk-cursor-theme-name=""
 gtk-xft-antialias=1
 gtk-xft-hinting=1
 gtk-xft-hintstyle="hintslight"

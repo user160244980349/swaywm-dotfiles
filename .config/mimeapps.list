@@ -1,0 +1,5 @@
+[Added Associations]
+text/plain=vim.desktop;
+
+[Default Applications]
+application/pdf=firefox.desktop;libreoffice-draw.desktop;

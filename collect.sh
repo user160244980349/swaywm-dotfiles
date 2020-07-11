@@ -6,12 +6,12 @@ fi
 
 cd .config
 
-cp -r $HOME/.config/alacritty .
-cp -r $HOME/.config/gtk-3.0   .
-cp -r $HOME/.config/ranger    .
-cp -r $HOME/.config/sway      .
-cp -r $HOME/.config/waybar    .
-cp -r $HOME/.config/wofi      .
+cp -r $HOME/.config/termite       .
+cp -r $HOME/.config/gtk-3.0       .
+cp -r $HOME/.config/sway          .
+cp -r $HOME/.config/waybar        .
+cp -r $HOME/.config/wofi          .
+cp    $HOME/.config/mimeapps.list .
 
 cd ..
 

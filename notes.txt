@@ -1,41 +1,48 @@
  
- # Dependencies
- alacritty (terminal)
- sway-git
- swayidle
- swaylock
- libappindicator-gtk3 (tray)
- mako (notifications)
- wofi-hg (launcher)
- waybar (infobar)
- pulseaudio (sound)
- pavucontrol (sound control)
- brightnessctl (backlight control)
+# Dependencies
+termite (terminal)
+sway
+swayidle
+swaylock
+libappindicator-gtk3 (tray)
+mako (notifications)
+wofi (launcher)
+waybar (infobar)
+pulseaudio (sound)
+pavucontrol (sound control)
+brightnessctl (backlight control)
 
- # Theming
- awesome-terminal-fonts
- otf-font-awesome
- arc-gtk-theme
- arc-icon-theme
- qt5ct
- kvantum-qt5
+# Theming
+awesome-terminal-fonts
+otf-font-awesome
+ttf-roboto
+ttf-roboto-mono
+qt5ct
+kvantum-qt5
 
- # Apps
- zsh
- htop 
- ranger
- vim
- rhythmbox
- transmission-gtk
+# Apps
+zsh
+htop 
+vim
+vifm
+rhythmbox
+qbittorrent
 
- # Wofi bug with term
- Create a symbolic link to the alacritty and place it into /usr/bin
+# Wofi bug with term
+ln -s /usr/bin/termite /usr/bin/xterm
 
- # To apply theme in GTK3
- gtk-update-icon-cache $HOME/.icons/Arc
- gsettings set org.gnome.desktop.interface gtk-theme "Arc-Dark"
- gsettings set org.gnome.desktop.wm.preferences theme "Arc-Dark"
+# To apply theme in GTK3
+gtk-update-icon-cache $HOME/.icons/Adwaita
+gsettings set org.gnome.desktop.interface gtk-theme "Adwaita-dark"
+gsettings set org.gnome.desktop.wm.preferences theme "Adwaita-dark"
+gsettings set org.gnome.desktop.interface icon-theme "Adwaita"
 
- # TODO
- 5. configure automount
- 7. configure zsh
+# TODO
+5.  Configure automount
+7.  Configure zsh
+10. Mako notifications colorscheme
+11. Mimeapps configuration
+
+# Troubles
+1. Termite window doesnt have a title
+2. Color schemes not similar between console and gui
