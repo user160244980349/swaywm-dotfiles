@@ -3,6 +3,7 @@ set $xresources xrdb ~/.Xresources
 set $lock       $conf/lock.sh
 set $term       termite
 set $menu       wofi
+set $storage	udiskie
 
 set $notifications  mako
 set $idle           swayidle -w \

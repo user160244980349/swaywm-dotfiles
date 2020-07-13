@@ -23,4 +23,3 @@ cp    $HOME/.gitconfig        .
 cp    $HOME/.zshrc            .
 cp    $HOME/.pam_environment  .
 cp    $HOME/.gtkrc-2.0        .
-
