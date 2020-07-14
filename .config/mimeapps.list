@@ -1,5 +1,30 @@
 [Added Associations]
+text/cmd=vim.desktop;
+text/css=vim.desktop;
+text/csv=vim.desktop; 
+text/html=vim.desktop;
+text/javascript=vim.desktop;
 text/plain=vim.desktop;
-
-[Default Applications]
-application/pdf=firefox.desktop;libreoffice-draw.desktop;
+text/php=vim.desktop;
+text/xml=vim.desktop; 
+text/markdown=vim.desktop;
+text/cache-manifest=vim.desktop;
+image/gif=firefox.desktop;
+image/jpeg=firefox.desktop;
+image/pjpeg=firefox.desktop;
+image/png=firefox.desktop;
+image/svg+xml=firefox.desktop;
+image/tiff=firefox.desktop;
+image/vnd.wap.wbmp=firefox.desktop;
+image/webp=firefox.desktop;
+audio/basic=rhythmbox.desktop;
+audio/L24=rhythmbox.desktop;
+audio/mp4=rhythmbox.desktop;
+audio/aac=rhythmbox.desktop;
+audio/mpeg=rhythmbox.desktop;
+audio/ogg=rhythmbox.desktop;
+audio/vorbis=rhythmbox.desktop;
+audio/x-ms-wma=rhythmbox.desktop;
+audio/x-ms-wax=rhythmbox.desktop;
+audio/vnd.rn-realaudio=rhythmbox.desktop;
+audio/vnd.wave=rhythmbox.desktop;

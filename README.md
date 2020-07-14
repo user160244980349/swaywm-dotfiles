@@ -30,6 +30,7 @@ vim
 vifm
 rhythmbox
 qbittorrent
+tlp (power management)
 
 # Wofi bug with term
 ln -s /usr/bin/termite /usr/bin/xterm

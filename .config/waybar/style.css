@@ -14,35 +14,32 @@ window#waybar {
 }
 
 window#waybar.hidden {
-    opacity: 0.2;
-}
-/*
-window#waybar.termite {
-    background-color: #3F3F3F;
+    opacity: 0.4;
 }
 
-window#waybar.chromium {
-    background-color: #000000;
-    border: none;
+window#waybar.firefox {
+    background-color: #353535;
 }
-*/
+
+window#waybar.xterm {
+    background-color: #1d1f21;
+}
+
 #workspaces button {
     border-radius: 7px;
-    padding: 3px;
-    margin-top: 3px;
-    margin-left: 3px;
-    margin-bottom: 3px;
+    margin: 3px;
+    padding: 3 4 3 4px;
     color: #ffffff;
     background-color: transparent;
 }
 
 #workspaces button:hover {
-    background: #64727d;
+    background: transparent;
     box-shadow: inherit;
 }
 
 #workspaces button.focused {
-    background-color: #3971ed;
+    background-color: #64727d;
 }
 
 #workspaces button.urgent {
@@ -60,8 +57,9 @@ window#waybar.chromium {
 #pulseaudio,
 #tray,
 #idle_inhibitor {
-    padding: 0 10px;
-    margin: 0 0px;
+    border-radius: 7px;
+    padding: 3 10 3 10px;
+    margin: 3px;
     color: #ffffff;
 }
 

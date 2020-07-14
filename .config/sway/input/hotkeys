@@ -20,7 +20,6 @@ bindsym --to-code {
     $mod+Shift+e    exec $session
 
     $mod+Shift+q kill
-    $mod+Shift+c reload
 
     $mod+Left   focus left
     $mod+Down   focus down
@@ -77,6 +76,8 @@ bindsym --to-code {
     XF86AudioPlay           exec $media_play
     XF86AudioNext           exec $media_next
     XF86AudioPrev           exec $media_prev
+
+    $mod+Shift+c    exec $colorpicker
 
     $mod+r          mode "resize"
 }

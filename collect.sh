@@ -16,6 +16,7 @@ cp    $HOME/.config/mimeapps.list .
 
 cd ..
 
+cp -r $HOME/media             .
 cp -r $HOME/.icons            .
 cp -r $HOME/.themes           .
 

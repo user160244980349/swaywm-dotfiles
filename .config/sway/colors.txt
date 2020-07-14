@@ -1,0 +1,12 @@
+# ImageMagick pixel enumeration: 1,1,65535,srgb
+0,0: (48,48,48)  #303030  grey19
+# ImageMagick pixel enumeration: 1,1,65535,srgb
+0,0: (21,83,158)  #15539E  srgb(21,83,158)
+# ImageMagick pixel enumeration: 1,1,65535,srgb
+0,0: (48,48,48)  #303030  grey19
+# ImageMagick pixel enumeration: 1,1,65535,srgb
+0,0: (83,83,83)  #535353  srgb(83,83,83)
+# ImageMagick pixel enumeration: 1,1,65535,srgb
+0,0: (53,53,53)  #353535  srgb(53,53,53)
+# ImageMagick pixel enumeration: 1,1,65535,srgb
+0,0: (122,122,122)  #7A7A7A  grey48
