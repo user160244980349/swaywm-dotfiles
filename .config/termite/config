@@ -1,6 +1,6 @@
 [options]
 font = roboto mono 12
-
+dynamic_title = false
 vim: ft=dosini cms=#%s
 
 [colors]

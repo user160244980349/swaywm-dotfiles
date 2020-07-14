@@ -10,6 +10,10 @@ waybar (infobar)
 pulseaudio (sound)
 pavucontrol (sound control)
 brightnessctl (backlight control)
+udiskie (automount usb sticks)
+libmtp
+go-mtpfs-git (mtp)
+
 
 # Theming
 awesome-terminal-fonts
@@ -31,7 +35,7 @@ qbittorrent
 ln -s /usr/bin/termite /usr/bin/xterm
 
 # Udiskie mount folder and link
-ln -s /run/media/user ~/media
+ln -s /run/media/user ~/media/drives
 
 # To apply theme in GTK3
 gtk-update-icon-cache $HOME/.icons/Adwaita
@@ -40,11 +44,8 @@ gsettings set org.gnome.desktop.wm.preferences theme "Adwaita-dark"
 gsettings set org.gnome.desktop.interface icon-theme "Adwaita"
 
 # TODO
-5.  Configure automount
 7.  Configure zsh
-10. Mako notifications colorscheme
 11. Mimeapps configuration
 
 # Troubles
-1. Termite window doesnt have a title
 2. Color schemes not similar between console and gui

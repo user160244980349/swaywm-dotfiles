@@ -12,6 +12,9 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
+alias mtp-m='go-mtpfs /run/media/user/mtp &> $HOME/.mtplog &; disown'
+alias mtp-u='fusermount -u /run/media/user/mtp'
+
 if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
 	exec sway &> $HOME/.swaylog
 fi
