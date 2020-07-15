@@ -26,6 +26,7 @@
 * ttf-roboto-mono
 * qt5ct
 * kvantum-qt5
+* gnome-themes-extra (adwaita theme & icons)
 
 # Apps
 * zsh
