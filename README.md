@@ -1,3 +1,7 @@
+# About
+This is a minimalistic rice setup with solid and calm adwaita theme.
+It includes configs for all dependency packages used for ricing and doing every day work.
+
 # Dependencies
 * termite (terminal)
 * sway
