@@ -37,21 +37,21 @@
 * tlp (power management)
 
 # Wofi bug with term
-'''
+```
 ln -s /usr/bin/termite /usr/bin/xterm
-'''
+```
 # Udiskie mount folder and link
-'''
+```
 ln -s /run/media/user ~/media/drives
-'''
+```
 
 # To apply theme in GTK3
-'''
+```
 gtk-update-icon-cache $HOME/.icons/Adwaita
 gsettings set org.gnome.desktop.interface gtk-theme "Adwaita-dark"
 gsettings set org.gnome.desktop.wm.preferences theme "Adwaita-dark"
 gsettings set org.gnome.desktop.interface icon-theme "Adwaita"
-'''
+```
 
 # TODO
 * Configure zsh
