@@ -1,0 +1,14 @@
+{
+    "output": "HDMI-A-1",
+    "layer": "top",
+    "position": "top",
+    "height": 30, 
+    "modules-left": ["sway/workspaces"],
+    "modules-center": ["sway/window"],
+    "modules-right": ["clock"],
+    "clock": {
+	"tooltip": false,
+        "timezone": "UTC",
+        "format-alt": "{:%d.%m.%Y}"
+    }
+}

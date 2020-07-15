@@ -11,9 +11,13 @@ pulseaudio (sound)
 pavucontrol (sound control)
 brightnessctl (backlight control)
 udiskie (automount usb sticks)
-libmtp
+libmtp (go-mtpfs dependency)
 go-mtpfs-git (mtp)
+wl-clipboard (clipboard)
 
+grim (screenshots)
+imagemagick (picture color grep)
+slurp (region of screen for capture)
 
 # Theming
 awesome-terminal-fonts
@@ -46,7 +50,5 @@ gsettings set org.gnome.desktop.interface icon-theme "Adwaita"
 
 # TODO
 7.  Configure zsh
-11. Mimeapps configuration
+11. Mimeapps configuration (especially vifm config)
 
-# Troubles
-2. Color schemes not similar between console and gui

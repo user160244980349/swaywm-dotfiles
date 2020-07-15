@@ -78,6 +78,7 @@ bindsym --to-code {
     XF86AudioPrev           exec $media_prev
 
     $mod+Shift+c    exec $colorpicker
+    $mod+Shift+s    exec $screenshot
 
     $mod+r          mode "resize"
 }

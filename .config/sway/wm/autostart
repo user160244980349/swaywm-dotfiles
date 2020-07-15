@@ -3,3 +3,5 @@ exec $xresources
 exec $notifications
 exec $idle
 exec $storage
+exec $edp_bar
+exec $hdmi_bar

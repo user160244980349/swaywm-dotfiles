@@ -4,7 +4,12 @@ set $lock        $conf/lock.sh
 set $term        xterm
 set $menu        wofi
 set $storage	 udiskie
-set $colorpicker $conf/color_picker.sh
+set $colorpicker grim -g "$(slurp -p)" -t ppm - | convert - -format '%[pixel:p{0,0}]' txt:- >> $HOME/.config/sway/colors.txt
+set $screenshot grim -g "$(slurp -d)" - | wl-copy
+set $edp_bar     waybar -c $HOME/.config/waybar/config-eDP
+set $hdmi_bar    waybar -c $HOME/.config/waybar/config-HDMI
+
+
 
 set $notifications  mako
 set $idle           swayidle -w \
