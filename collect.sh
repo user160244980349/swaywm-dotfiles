@@ -16,9 +16,6 @@ cp -r $HOME/.config/vifm    .
 
 cd ..
 
-cp -r $HOME/.icons           .
-cp -r $HOME/.themes          .
-
 cp    $HOME/.Xresources      .
 cp    $HOME/.gitconfig       .
 cp    $HOME/.zshrc           .
