@@ -48,10 +48,10 @@ ln -s /run/media/user ~/media/drives
 
 # To apply theme in GTK3
 ```
-gtk-update-icon-cache $HOME/.icons/Adwaita
 gsettings set org.gnome.desktop.interface gtk-theme "Adwaita-dark"
 gsettings set org.gnome.desktop.wm.preferences theme "Adwaita-dark"
 gsettings set org.gnome.desktop.interface icon-theme "Adwaita"
+gtk-update-icon-cache $HOME/.icons/Adwaita
 ```
 
 # TODO
