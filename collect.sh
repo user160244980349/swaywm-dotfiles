@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ ! -d "config" ]; then
+if [ ! -d ".config" ]; then
 	mkdir .config
 fi
 
@@ -15,6 +15,15 @@ cp -r $HOME/.config/mako    .
 cp -r $HOME/.config/vifm    .
 
 cd ..
+
+
+if [ ! -d ".local/share" ]; then
+	mkdir -p .local/share
+fi
+
+cd .local/share/
+
+cp -r $HOME/.local/share/applications .
 
 cp    $HOME/.Xresources      .
 cp    $HOME/.gitconfig       .
