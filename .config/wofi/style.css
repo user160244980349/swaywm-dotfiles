@@ -1,0 +1,34 @@
+window {
+    background-color: rgba(53, 53, 53, 0.9375);
+    margin: 0px;
+    border: 1px solid #15539e;
+    border-radius: 5px;
+}
+
+#input {
+    margin: 4px;
+    border: none;
+}
+
+#inner-box {
+    margin: 4px;
+    border: none;
+}
+
+#outer-box {
+    margin: 4px;
+    border: none;
+}
+
+#scroll {
+    margin: 0px;
+    border: none;
+}
+
+#text {
+    margin: 4px;
+    border: none;
+}
+
+#entry:selected {
+}

@@ -1,0 +1,27 @@
+
+# root path of the wm config
+set $conf '$HOME/.config/sway'
+
+# variables with applications calls
+include $conf/applications
+
+# bindings syms and codes
+include $conf/input/hotkeys
+
+# wm modes
+include $conf/input/mods
+
+# displays and wallpapers
+include $conf/output
+
+# visible part of the wm
+include $conf/wm/appereance
+
+# behaviour of the wm
+include $conf/wm/behaviour
+
+# bar command
+include $conf/wm/bar
+
+# applications necessary to autostart
+include $conf/wm/autostart

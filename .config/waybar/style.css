@@ -1,0 +1,137 @@
+* {
+    border: none;
+    border-radius: 0px;
+    box-shadow: none;
+    text-shadow: none;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    min-height: 0px;
+}
+
+window#waybar {
+    background-color: rgba(53, 53, 53, 0.5);
+    transition-property: color, background;
+    transition-duration: 0.3s;
+}
+
+window#waybar.hidden {
+    opacity: 0.4;
+}
+
+window#waybar.firefox {
+    background: #353535;
+}
+
+window#waybar.xterm {
+    background: #1d1f21;
+}
+
+#workspaces button,
+#workspaces button:hover,
+#workspaces button.focused,
+#workspaces button.urgent {
+    border-radius: 7px;
+    margin: 3px;
+    padding: 3 4 3 4px;
+
+    transition-property: color, background;
+    transition-duration: 0.3s;
+}
+
+#workspaces button {
+    color: #ffffff;
+    background: transparent;
+}
+
+#workspaces button:hover {
+    background: transparent;
+}
+
+#workspaces button.focused {
+    color: #000000;
+    background: #ffffff;
+}
+
+#workspaces button.urgent {
+    color: #ffffff;
+    background: #26A65B;
+}
+
+#mode,
+#clock,
+#battery,
+#backlight,
+#network,
+#pulseaudio,
+#tray,
+#idle_inhibitor {
+    border-radius: 7px;
+    padding: 3 10 3 10px;
+    margin: 3px;
+}
+
+
+#mode {
+    color: #000000;
+    background-color: #ffffff;
+}
+
+#clock {
+    color: #ffffff;
+}
+
+#battery {
+    color: #ffffff;
+}
+
+#battery.charging {
+    color: #ffffff;
+    background-color: #26A65B;
+}
+
+@keyframes blink {
+    to {
+        background-color: transparent;
+    }
+}
+
+#battery.critical:not(.charging) {
+    background-color: #f53c3c;
+    animation-name: blink;
+    animation-duration: 0.3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+label:focus {
+    background-color: #000000;
+}
+
+#backlight {
+    color: #ffffff;
+}
+
+#network {
+    color: #ffffff;
+}
+
+#network.disconnected {
+    color: #f53c3c;
+}
+
+#pulseaudio {
+    color: #ffffff;
+}
+
+#pulseaudio.muted {
+    color: #ffffff;
+}
+
+#idle_inhibitor {
+    color: #ffffff;
+}
+
+#idle_inhibitor.activated {
+    color: #ffffff;
+}

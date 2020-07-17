@@ -1,0 +1,25 @@
+
+mode "resize" {
+    bindsym --to-code {
+        Left   resize shrink width 3px
+        Down   resize grow height 3px
+        Up     resize shrink height 3px
+        Right  resize grow width 3px
+
+        Return mode "default"
+        Escape mode "default"
+        Ctrl+c mode "default"
+    }
+}
+
+mode "power" {
+    bindsym --to-code {
+        r exec reboot
+        p exec poweroff
+        e exec swaymsg exit
+        c exec swaymsg reload
+
+        Escape mode "default"
+        Ctrl+c mode "default"
+    }
+}

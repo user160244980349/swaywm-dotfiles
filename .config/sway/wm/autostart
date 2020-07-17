@@ -1,0 +1,5 @@
+
+exec $xresources
+exec $notifications
+exec $idle
+exec $storage

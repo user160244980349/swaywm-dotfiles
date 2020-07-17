@@ -25,6 +25,8 @@ cd .local/share/
 
 cp -r $HOME/.local/share/applications .
 
+cd ../..
+
 cp    $HOME/.Xresources      .
 cp    $HOME/.gitconfig       .
 cp    $HOME/.zshrc           .

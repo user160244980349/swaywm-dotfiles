@@ -1,0 +1,86 @@
+[{
+    "output": "eDP-1",
+    "layer": "top",
+    "position": "top",
+    "height": 30, 
+    "modules-left": ["sway/workspaces", "sway/mode"],
+    "modules-center": ["sway/window"],
+    "modules-right": ["idle_inhibitor", "pulseaudio", "backlight", "battery", "network", "clock", "tray"],
+    "sway/mode": {
+        "format": "<span style=\"italic\">{}</span>",
+        "tooltip": false 
+    },
+    "idle_inhibitor": {
+	"tooltip": false,
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        }
+    },
+    "tray": {
+        // "icon-size": 21,
+	"tooltip": false,
+        "spacing": 10
+    },
+    "clock": {
+	"tooltip": false,
+        "timezone": "UTC",
+        "format-alt": "{:%d.%m.%Y}"
+    },
+    "backlight": {
+	"tooltip": false,
+        "format": "{percent}% {icon}",
+        "format-icons": ["", ""]
+    },
+    "battery": {
+	"tooltip": false,
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}% {icon}",
+        "format-charging": "{capacity}% ",
+        "format-plugged": "{capacity}% ",
+        "format-alt": "{time} {icon}",
+        "format-icons": ["", "", "", "", ""]
+    },
+    "network": {
+	"tooltip": false,
+        "format-wifi": "{essid} {signalStrength}% ",
+        "format-ethernet": "",
+        "format-linked": "",
+        "format-disconnected": ""
+    },
+    "pulseaudio": {
+	"tooltip": false,	
+        "format": "{volume}% {icon} {format_source}",
+        "format-bluetooth": "{volume}% {icon} {format_source}",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": " {format_source}",
+        "format-source": "{volume}% ",
+        "format-source-muted": "",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        },
+        "on-click": "pavucontrol"
+    }
+}, {
+    "output": "HDMI-A-1",
+    "layer": "top",
+    "position": "top",
+    "height": 30, 
+    "modules-left": ["sway/workspaces"],
+    "modules-center": ["sway/window"],
+    "modules-right": ["clock"],
+    "clock": {
+	"tooltip": false,
+        "timezone": "UTC",
+        "format-alt": "{:%d.%m.%Y}"
+    }
+}]
