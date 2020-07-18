@@ -17,7 +17,7 @@
 # Bookmarks:
 
 # TUI:
-ar
+al
 q0
 v2
 ov
@@ -26,87 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/user/study
-	дипыч
-1
-d/home/user
-	media
-3
-d/home/user/media
-	drives
-1
-d/home/user/media/drives
-	GSP1RMCPRXF
-1
-d/home/user/media/drives/GSP1RMCPRXF
-	..
-0
-d/home/user/media/drives
-	GSP1RMCPRXF
-1
-d/home/user/media
-	drives
-1
-d/home/user/media/drives
-	GSP1RMCPRXF
-1
-d/home/user/media/drives/GSP1RMCPRXF
-	..
-0
-d/home/user/media/drives
-	GSP1RMCPRXF
-1
-d/home/user/media
-	drives
-1
-d/home/user
-	study
-8
-d/home/user/study
-	таски
-2
-d/home/user/study/таски
-	Book-15-June-2020.pdf
-5
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	vkr
-2
-d/home/user/study/дипыч/vkr
-	Competence questions for PrivacyPolicy.docx
-6
-d/home/user/study/дипыч
-	Аннотация 2020-06-17 101158.png
-7
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	datasets
-1
-d/home/user/study/дипыч/datasets
-	__MACOSX
-5
-d/home/user/study/дипыч/datasets/__MACOSX
-	..
-0
-d/home/user/study/дипыч/datasets
-	OptOutChoice-2020_v1.0
-4
-d/home/user/study/дипыч/datasets/OptOutChoice-2020_v1.0
-	..
-0
-d/home/user/study/дипыч/datasets
-	OptOutChoice-2017_v1.0
-3
-d/home/user/study/дипыч/datasets/OptOutChoice-2017_v1.0
-	..
-0
-d/home/user/study/дипыч/datasets
-	MAPS Policies Dataset
-2
 d/home/user/study/дипыч/datasets/MAPS Policies Dataset
 	..
 0
@@ -326,75 +245,90 @@ d/home/user/study
 d/home/user/study/дипыч
 	отчет_17_07_2020.pdf
 12
+d/home/user/study
+	дипыч
+1
+d/home/user
+	study
+8
+d/home
+	user
+1
+d/
+	lib
+5
+d/lib
+	glib-pacrunner
+30
+d/
+	usr
+16
+d/usr
+	include
+2
+d/usr/include
+	KHR
+10
+d/usr/include/KHR
+	..
+0
+d/usr/include
+	glm
+30
+d/usr/include/glm
+	detail
+1
+d/usr/include/glm/detail
+	..
+0
+d/usr/include/glm
+	detail
+1
+d/usr/include/glm/detail
+	type_mat3x4.hpp
+28
+d/usr/include/glm
+	mat2x2.hpp
+14
+d/usr/include
+	glibmm-2.4
+29
+d/usr
+	include
+2
+d/
+	home
+4
+d/home
+	user
+1
+d/home/user
+	study
+8
+d/home
+	user
+1
+d/
+	usr
+16
+d/usr
+	include
+2
+d/usr/include
+	SDL
+4
+d/usr/include/SDL
+	..
+0
+d/usr/include
+	SDL2
+5
+d/usr/include/SDL2
+	SDL_video.h
+31
 d
 
 # Right window history (oldest to newest):
-D/usr/lib/jvm/default
-	..
-0
-D/usr/lib/jvm
-	default-runtime
-2
-D/usr/lib/jvm/default-runtime
-	..
-0
-D/usr/lib/jvm
-	java-11-openjdk
-3
-D/usr/lib/jvm/java-11-openjdk
-	..
-0
-D/usr/lib/jvm
-	java-11-openjdk
-4
-D/usr/lib
-	jvm
-30
-D/usr/lib/jvm
-	java-11-openjdk
-3
-D/usr/lib
-	jack
-29
-D/usr
-	bin
-1
-D/usr/bin
-	cmus
-16
-D/usr
-	bin
-1
-D/
-	usr
-17
-D/usr
-	share
-8
-D/usr/share
-	applications
-5
-D/usr/share/applications
-	htop.desktop
-9
-D/usr/share
-	applications
-5
-D/usr
-	share
-8
-D/
-	mnt
-8
-D/home/user
-	.icons
-5
-D/home/user/.icons
-	Adwaita
-1
-D/home/user/.icons/Adwaita
-	..
-0
 D/home/user/.icons
 	Adwaita
 1
@@ -627,8 +561,74 @@ D/home/user/source/repos
 	sway-dotfiles
 5
 D/home/user/source/repos/sway-dotfiles
-	collect.sh
+	.local
+3
+D/home/user/source/repos
+	sway-dotfiles
 5
+D/home/user/source
+	repos
+1
+D/home/user
+	.config
+3
+D/home/user/.config
+	waybar
+21
+D/home/user/.config/waybar
+	style.css
+2
+D/home/user/.config
+	waybar
+21
+D/home/user/.config/waybar
+	config
+1
+D/home/user/.config
+	waybar
+21
+D/home/user
+	source
+16
+D/home/user/source
+	repos
+1
+D/home/user/source/repos
+	course-work-opengl
+2
+D/home/user/source/repos/course-work-opengl
+	build
+2
+D/home/user/source/repos/course-work-opengl/build
+	..
+0
+D/home/user/source/repos/course-work-opengl
+	build
+2
+D/home/user/source/repos/course-work-opengl/build
+	..
+0
+D/home/user/source/repos/course-work-opengl
+	build
+2
+D/home/user/source/repos/course-work-opengl/build
+	..
+0
+D/home/user/source/repos/course-work-opengl
+	build
+2
+D/home/user/source/repos
+	course-work-opengl
+2
+D/home/user/source
+	repos
+1
+D/home/user/source/repos
+	course-work-opengl
+2
+D/home/user/source/repos/course-work-opengl
+	build
+2
 D
 
 # Command line history (oldest to newest):
@@ -702,7 +702,6 @@ D
 :!firefox sec18-harkous.pdf
 :!vim vimrc
 :!vim mimeapps.list
-:q
 :home
 :!vim vifmrc
 :hideui
@@ -718,11 +717,16 @@ D
 :!h
 :!vim bar
 :!echo config-HDMI >> config-eDP
-:!git add .
-:!git commit -m "New stuff"
 :!git push gid
-:!git push github
 :!./collect.sh
+:!git commit -m "New stuff"
+:!git push github
+:!git add .
+:!git commit -m "Cleanup"
+:!mkdir build
+:cmake ..
+:!cmake ..
+:q
 
 # Search history (oldest to newest):
 /waybar
@@ -740,6 +744,8 @@ D
 /jvm
 /appli
 /cmus
+/glm
+/sdl
 
 # Prompt history (oldest to newest):
 pstyle1.css
@@ -763,12 +769,10 @@ pconfig
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/user/.local/share/vifm/Trash/011_.config
-""/home/user/.local/share/vifm/Trash/010_.Xresources
-""/home/user/.local/share/vifm/Trash/009_.gitconfig
-""/home/user/.local/share/vifm/Trash/011_.gtkrc-2.0
-""/home/user/.local/share/vifm/Trash/013_.pam_environment
-""/home/user/.local/share/vifm/Trash/012_.zshrc
+""/home/user/.local/share/vifm/Trash/004_CMakeFiles
+""/home/user/.local/share/vifm/Trash/004_CMakeCache.txt
+""/home/user/.local/share/vifm/Trash/004_Makefile
+""/home/user/.local/share/vifm/Trash/004_cmake_install.cmake
 
 # Directory stack (oldest to newest):
 
@@ -977,6 +981,24 @@ t/home/user/.local/share/vifm/Trash/013_.pam_environment
 	/home/user/source/repos/sway-dotfiles/.pam_environment
 t/home/user/.local/share/vifm/Trash/012_.zshrc
 	/home/user/source/repos/sway-dotfiles/.zshrc
+t/home/user/.local/share/vifm/Trash/000_.local
+	/home/user/source/repos/sway-dotfiles/.local
+t/home/user/.local/share/vifm/Trash/000_CMakeFiles
+	/home/user/source/repos/course-work-opengl/CMakeFiles
+t/home/user/.local/share/vifm/Trash/000_CMakeCache.txt
+	/home/user/source/repos/course-work-opengl/CMakeCache.txt
+t/home/user/.local/share/vifm/Trash/000_Makefile
+	/home/user/source/repos/course-work-opengl/Makefile
+t/home/user/.local/share/vifm/Trash/000_cmake_install.cmake
+	/home/user/source/repos/course-work-opengl/cmake_install.cmake
+t/home/user/.local/share/vifm/Trash/001_CMakeFiles
+	/home/user/source/repos/course-work-opengl/build/CMakeFiles
+t/home/user/.local/share/vifm/Trash/001_CMakeCache.txt
+	/home/user/source/repos/course-work-opengl/build/CMakeCache.txt
+t/home/user/.local/share/vifm/Trash/001_Makefile
+	/home/user/source/repos/course-work-opengl/build/Makefile
+t/home/user/.local/share/vifm/Trash/001_cmake_install.cmake
+	/home/user/source/repos/course-work-opengl/build/cmake_install.cmake
 
 # State:
 f

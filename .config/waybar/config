@@ -75,9 +75,13 @@
     "layer": "top",
     "position": "top",
     "height": 30, 
-    "modules-left": ["sway/workspaces"],
+    "modules-left": ["sway/workspaces", "sway/mode"],
     "modules-center": ["sway/window"],
     "modules-right": ["clock"],
+    "sway/mode": {
+        "format": "<span style=\"italic\">{}</span>",
+        "tooltip": false 
+    },
     "clock": {
 	"tooltip": false,
         "timezone": "UTC",
