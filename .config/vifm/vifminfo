@@ -329,66 +329,6 @@ d/home/user/source/repos
 d
 
 # Right window history (oldest to newest):
-D/home/user
-	.gnupg
-3
-D/home/user/.gnupg
-	..
-0
-D/home/user
-	.cache
-1
-D/home/user/.cache
-	go-build
-3
-D/home/user
-	.local
-5
-D/home/user/.local
-	share
-1
-D/home/user/.local/share
-	applications
-3
-D/home/user/.local/share/applications
-	CMus.desktop
-1
-D/home/user/.local/share
-	xorg
-11
-D/home/user/.local
-	share
-1
-D/home/user
-	.config
-2
-D/home/user/.config
-	cmus
-4
-D/home/user/.config/cmus
-	playlists
-1
-D/home/user/.config/cmus/playlists
-	..
-0
-D/home/user/.config/cmus
-	search-history
-6
-D/home/user
-	.config
-2
-D/home/user/.config
-	cmus
-4
-D/home/user/.config/cmus
-	search-history
-6
-D/home/user/.config
-	cmus
-4
-D/home/user
-	.config
-2
 D/home/user/.config
 	waybar
 20
@@ -627,8 +567,68 @@ D/home/user/source
 	repos
 1
 D/home/user
-	.zshrc
-31
+	.config
+3
+D/home/user/.config
+	wofi
+21
+D/home/user
+	source
+17
+D/home/user/source
+	repos
+1
+D/home/user/source/repos
+	sway-dotfiles
+7
+D/home/user/source/repos/sway-dotfiles
+	collect.sh
+10
+D/home/user/source/repos
+	sway-dotfiles
+7
+D/home/user/source
+	repos
+1
+D/home/user
+	.atom
+1
+D/home
+	user
+1
+D/home/user
+	.oh-my-zsh
+8
+D/home/user/.oh-my-zsh
+	themes
+9
+D/home/user/.oh-my-zsh/themes
+	wezm+.zsh-theme
+28
+D/home/user/.oh-my-zsh
+	themes
+9
+D/home/user
+	.oh-my-zsh
+8
+D/home
+	user
+1
+D/home/user
+	.config
+3
+D/home/user/.config
+	termite
+18
+D/home/user/.config/termite
+	config
+1
+D/home/user/.config
+	waybar
+21
+D/home/user/.config/waybar
+	config
+1
 D
 
 # Command line history (oldest to newest):
@@ -730,8 +730,8 @@ D
 :!git commit -m "Bar changes, sway modes in bar"
 :!git push github
 :hide
-:q
 :!./collect.sh
+:q
 
 # Search history (oldest to newest):
 /waybar
@@ -751,6 +751,7 @@ D
 /cmus
 /glm
 /sdl
+/agn
 
 # Prompt history (oldest to newest):
 pstyle1.css
@@ -776,13 +777,13 @@ plucy
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/user/.local/share/vifm/Trash/016_.config
-""/home/user/.local/share/vifm/Trash/003_.local
-""/home/user/.local/share/vifm/Trash/013_.Xresources
-""/home/user/.local/share/vifm/Trash/012_.gitconfig
-""/home/user/.local/share/vifm/Trash/014_.gtkrc-2.0
-""/home/user/.local/share/vifm/Trash/016_.pam_environment
-""/home/user/.local/share/vifm/Trash/015_.zshrc
+""/home/user/.local/share/vifm/Trash/017_.config
+""/home/user/.local/share/vifm/Trash/004_.local
+""/home/user/.local/share/vifm/Trash/014_.Xresources
+""/home/user/.local/share/vifm/Trash/013_.gitconfig
+""/home/user/.local/share/vifm/Trash/015_.gtkrc-2.0
+""/home/user/.local/share/vifm/Trash/017_.pam_environment
+""/home/user/.local/share/vifm/Trash/016_.zshrc
 
 # Directory stack (oldest to newest):
 
@@ -1013,6 +1014,22 @@ t/home/user/.local/share/vifm/Trash/000_resources
 	/home/user/source/repos/resources
 t/home/user/.local/share/vifm/Trash/000_venv
 	/home/user/source/repos/sde-math/venv
+t/home/user/.local/share/vifm/Trash/002_.histfile
+	/home/user/.histfile
+t/home/user/.local/share/vifm/Trash/000_.python_history
+	/home/user/.python_history
+t/home/user/.local/share/vifm/Trash/002_.zcompdump
+	/home/user/.zcompdump
+t/home/user/.local/share/vifm/Trash/000_.zcompdump-archlinux-5.8
+	/home/user/.zcompdump-archlinux-5.8
+t/home/user/.local/share/vifm/Trash/000_.zsh_history
+	/home/user/.zsh_history
+t/home/user/.local/share/vifm/Trash/000_java_error_in_PYCHARM_58846.log
+	/home/user/java_error_in_PYCHARM_58846.log
+t/home/user/.local/share/vifm/Trash/001_neofetch
+	/home/user/.config/neofetch
+t/home/user/.local/share/vifm/Trash/000_pcmanfm
+	/home/user/.config/pcmanfm
 
 # State:
 f

@@ -11,7 +11,7 @@
 window#waybar {
     background-color: rgba(53, 53, 53, 0.5);
     transition-property: color, background;
-    transition-duration: 0.3s;
+    transition-duration: 0.5s;
 }
 
 window#waybar.hidden {
@@ -33,9 +33,6 @@ window#waybar.xterm {
     border-radius: 7px;
     margin: 3px;
     padding: 3 4 3 4px;
-
-    transition-property: color, background;
-    transition-duration: 0.3s;
 }
 
 #workspaces button {
