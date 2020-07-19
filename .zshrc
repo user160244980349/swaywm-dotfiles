@@ -8,10 +8,22 @@ bindkey -e
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/user/.zshrc'
 
-autoload -Uz compinit
+# Load completion plugin
+autoload -U compinit
 compinit
-# End of lines added by compinstall
 
+# Load version control information
+autoload -Uz vcs_info
+precmd() { vcs_info }
+
+# Format the vcs_info_msg_0_ variable
+zstyle ':vcs_info:git:*' formats 'on branch %b'
+ 
+# Set up the prompt (with git branch name)
+setopt PROMPT_SUBST
+PROMPT='%n in ${PWD/#$HOME/~} ${vcs_info_msg_0_}'$'\n''zsh# '
+
+# End of lines added by compinstall
 alias mtpm='go-mtpfs /run/media/user/mtp &> $HOME/.mtplog &; disown'
 alias mtpu='fusermount -u /run/media/user/mtp'
 alias wistat='nmcli device status'

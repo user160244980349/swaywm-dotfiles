@@ -26,198 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/user/study/дипыч/datasets/MAPS Policies Dataset
-	..
-0
-d/home/user/study/дипыч/datasets
-	APP-350_v1.1
-1
-d/home/user/study/дипыч/datasets/APP-350_v1.1
-	..
-0
-d/home/user/study/дипыч/datasets
-	OptOutChoice-2017_v1.0
-3
-d/home/user/study/дипыч/datasets/OptOutChoice-2017_v1.0
-	PolicyDict.json
-4
-d/home/user/study/дипыч/datasets
-	OptOutChoice-2017_v1.0
-3
-d/home/user/study/дипыч
-	datasets
-1
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	Аннотация 2020-07-03 170643.jpg
-9
-d/home/user/study
-	дипыч
-1
-d/home/user
-	wallpapers
-10
-d/home/user/wallpapers
-	mobile_wallpaper.jpg
-1
-d/home/user
-	study
-8
-d/home/user/study
-	таски
-2
-d/home/user/study/таски
-	Book-15-June-2020.pdf
-5
-d/home/user/study
-	таски
-2
-d/home/user/study/таски
-	Условие-Расчетно-Графического-Задания.pdf
-15
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	отчет_17_07_2020.odt
-11
-d/home/user/study
-	таски
-2
-d/home/user
-	study
-8
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	vkr
-2
-d/home/user/study/дипыч/vkr
-	Competence questions for PrivacyPolicy.docx
-6
-d/home/user/study/дипыч
-	vkr
-2
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	vkr
-2
-d/home/user/study
-	дипыч
-1
-d/home/user
-	source
-7
-d/home/user/source
-	repos
-1
-d/home/user/source/repos
-	course-work-opengl
-2
-d/home/user/source/repos/course-work-opengl
-	..
-0
-d/home/user/source/repos
-	course-work-opengl
-2
-d/home/user/source/repos/course-work-opengl
-	sources
-3
-d/home/user/source/repos/course-work-opengl/sources
-	BaseException.cpp
-4
-d/home/user/source/repos/course-work-opengl
-	include
-1
-d/home/user/source/repos/course-work-opengl/include
-	core
-2
-d/home/user/source/repos/course-work-opengl/include/core
-	OpenGl.h
-11
-d/home/user/source/repos/course-work-opengl/include
-	core
-2
-d/home/user/source/repos/course-work-opengl
-	sources
-3
-d/home/user/source/repos
-	course-work-opengl
-2
-d/home/user/source
-	repos
-1
-d/home/user
-	source
-7
-d/home
-	user
-1
-d/
-	home
-4
-d/home
-	user
-1
-d/home/user
-	media
-3
-d/home/user/media
-	drives
-2
-d/home/user
-	study
-8
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	gdpr.pdf
-6
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	vkr
-2
-d/home/user/study/дипыч/vkr
-	P2Onto_NovikovaDoynikova_formLena_Jenja_02_07.pdf
-8
-d/home/user/study/дипыч
-	vkr
-2
-d/home/user/study/дипыч/vkr
-	AugustP2OntoSecurity.graphml
-3
-d/home/user/study/дипыч
-	vkr
-2
-d/home/user/study
-	дипыч
-1
-d/home/user
-	study
-8
-d/home
-	user
-1
-d/
-	etc
-3
-d/etc
-	..
-0
-d/
-	usr
-16
-d/usr
-	share
-8
 d/usr/share
 	cmus
 20
@@ -326,6 +134,198 @@ d/usr/include
 d/usr/include/SDL2
 	SDL_video.h
 31
+d/home/user
+	media
+3
+d/home/user/media
+	drives
+1
+d/home/user/media/drives
+	GSP1RMCPRXF
+1
+d/home/user/media/drives/GSP1RMCPRXF
+	resources
+4
+d/home/user/media/drives
+	GSP1RMCPRXF
+1
+d/home/user/media/drives/GSP1RMCPRXF
+	resources
+4
+d/home/user/media/drives/GSP1RMCPRXF/resources
+	..
+0
+d/home/user/media/drives/GSP1RMCPRXF
+	footballstars
+2
+d/home/user/media/drives
+	GSP1RMCPRXF
+1
+d/home/user/media
+	drives
+1
+d/home/user
+	source
+7
+d/home/user/source
+	repos
+1
+d/home/user/source/repos
+	course-work-opengl
+2
+d/home/user/source/repos/course-work-opengl
+	resources
+4
+d/home/user/source/repos
+	footballstars
+3
+d/home/user/source/repos/footballstars
+	_cmake_modules
+1
+d/home/user/source/repos
+	course-work-opengl
+2
+d/home/user/source/repos/course-work-opengl
+	resources
+4
+d/home/user/source/repos/course-work-opengl/resources
+	models
+1
+d/home/user/source/repos/course-work-opengl/resources/models
+	lucy
+1
+d/home/user/source/repos/course-work-opengl/resources/models/lucy
+	..
+0
+d/home/user/source/repos/course-work-opengl/resources/models
+	lucy
+1
+d/home/user/source/repos/course-work-opengl/resources
+	models
+1
+d/home/user/source/repos/course-work-opengl/resources/models
+	Lucy
+1
+d/home/user/source/repos/course-work-opengl/resources/models/Lucy
+	lucy.obj
+4
+d/home/user/source/repos/course-work-opengl/resources/models
+	lucy
+1
+d/home/user/source/repos/course-work-opengl/resources
+	models
+1
+d/home/user/source/repos/course-work-opengl/resources/models
+	lucy
+1
+d/home/user/source/repos/course-work-opengl/resources/models/lucy
+	lucy.obj
+4
+d/home/user/source/repos/course-work-opengl/resources/models
+	lucy
+1
+d/home/user/source/repos/course-work-opengl/resources
+	models
+1
+d/home/user/source/repos/course-work-opengl
+	resources
+4
+d/home/user/source/repos
+	footballstars
+3
+d/home/user/source/repos/footballstars
+	_resources
+2
+d/home/user/source/repos/footballstars/_resources
+	..
+0
+d/home/user/source/repos/footballstars
+	include
+3
+d/home/user/source/repos/footballstars/include
+	Scoreboard.h
+10
+d/home/user/source/repos/footballstars
+	sources
+4
+d/home/user/source/repos
+	minesweaper
+4
+d/home/user/source/repos/minesweaper
+	include
+3
+d/home/user/source/repos/minesweaper/include
+	ResetButton.h
+4
+d/home/user/source/repos/minesweaper
+	sources
+4
+d/home/user/source/repos/minesweaper/sources
+	Button.cpp
+2
+d/home/user/source/repos/minesweaper
+	include
+3
+d/home/user/source/repos/minesweaper/include
+	ResetButton.h
+4
+d/home/user/source/repos/minesweaper
+	_cmake_modules
+1
+d/home/user/source/repos/minesweaper/_cmake_modules
+	copy_resources.cmake
+5
+d/home/user/source/repos/minesweaper
+	_cmake_modules
+1
+d/home/user/source/repos/minesweaper/_cmake_modules
+	copy_resources.cmake
+5
+d/home/user/source/repos/minesweaper
+	_resources
+2
+d/home/user/source/repos
+	minesweaper
+4
+d/home/user/source/repos/minesweaper
+	_cmake_modules
+1
+d/home/user/source/repos
+	footballstars
+3
+d/home/user/source/repos/footballstars
+	_resources
+2
+d/home/user/source/repos
+	course-work-opengl
+2
+d/home/user/source/repos/course-work-opengl
+	resources
+4
+d/home/user/source/repos
+	course-work-opengl
+2
+d/home/user/source
+	repos
+1
+d/home/user
+	source
+7
+d/home/user/source
+	repos
+1
+d/home/user/source/repos
+	sway-dotfiles
+7
+d/home/user/source/repos/sway-dotfiles
+	.gitconfig
+5
+d/home/user/source/repos
+	sde-math
+6
+d/home/user/source/repos/sde-math
+	.gitignore
+9
 d
 
 # Right window history (oldest to newest):
@@ -632,10 +632,6 @@ D/home/user/source/repos/course-work-opengl
 D
 
 # Command line history (oldest to newest):
-:h
-:!sudo vim gephi.clusters
-:alink
-:cd !
 :!sudo vim gephi.conf
 :!vim yEd
 :!vim yEd.desktop
@@ -655,7 +651,6 @@ D
 :vifm config
 :!vifm config
 :!vim config
-:set dotfiles
 :set !dotfiles
 :set dotfiles:normal
 :windo normal! zo
@@ -705,7 +700,6 @@ D
 :home
 :!vim vifmrc
 :hideui
-:hide
 :!git commit -m "Vifm mimes"
 :!git commit -m "Readme.md styling"
 :!git commit -m "Removed themes and icons"
@@ -713,20 +707,31 @@ D
 :!git clone https://github.com/user160244980349/course-work-opengl.git
 :!./uninstall
 :!mkdir
-:cd ~
-:!h
 :!vim bar
 :!echo config-HDMI >> config-eDP
 :!git push gid
-:!./collect.sh
 :!git commit -m "New stuff"
-:!git push github
-:!git add .
 :!git commit -m "Cleanup"
 :!mkdir build
 :cmake ..
 :!cmake ..
 :q
+:!h
+:cd ~
+:git init
+:git remote add github https://github.com/user160244980349/course-work-minesweaper.git
+:!git remote add github https://github.com/user160244980349/course-work-minesweaper.git
+:!rm -r .idea/
+:!git init
+:!git commit -m "Initial, sadly"
+:!git remote add github https://github.com/user160244980349/course-work-footballstars.git
+:!git push -u github master
+:set dotfiles
+:!./collect.sh
+:!git add .
+:!git commit -m "Bar changes, sway modes in bar"
+:!git push github
+:hide
 
 # Search history (oldest to newest):
 /waybar
@@ -765,14 +770,13 @@ psway-dotfiles
 psde-math
 pprivacy-ontolicy
 pconfig
+pLucy
+plucy
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/user/.local/share/vifm/Trash/004_CMakeFiles
-""/home/user/.local/share/vifm/Trash/004_CMakeCache.txt
-""/home/user/.local/share/vifm/Trash/004_Makefile
-""/home/user/.local/share/vifm/Trash/004_cmake_install.cmake
+""/home/user/.local/share/vifm/Trash/000_venv
 
 # Directory stack (oldest to newest):
 
@@ -999,11 +1003,15 @@ t/home/user/.local/share/vifm/Trash/001_Makefile
 	/home/user/source/repos/course-work-opengl/build/Makefile
 t/home/user/.local/share/vifm/Trash/001_cmake_install.cmake
 	/home/user/source/repos/course-work-opengl/build/cmake_install.cmake
+t/home/user/.local/share/vifm/Trash/000_resources
+	/home/user/source/repos/resources
+t/home/user/.local/share/vifm/Trash/000_venv
+	/home/user/source/repos/sde-math/venv
 
 # State:
 f
 i1
-[.1
+[.0
 [F
 F
 I1
