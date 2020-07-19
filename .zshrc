@@ -102,7 +102,6 @@ source $ZSH/oh-my-zsh.sh
 HISTFILE=~/.histfile
 HISTSIZE=1000
 SAVEHIST=1000
-ZSH_THEME="agnoster"
 
 bindkey -e
 # End of lines configured by zsh-newuser-install
@@ -128,6 +127,4 @@ alias h="cd ~"
 
 if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
 	exec sway &> $HOME/.swaylog
-else
-	neofetch
 fi
