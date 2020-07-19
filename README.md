@@ -18,10 +18,12 @@ It includes configs for all dependency packages used for ricing and doing every 
 * libmtp (go-mtpfs dependency)
 * go-mtpfs-git (mtp)
 * wl-clipboard (clipboard)
-
 * grim (screenshots)
 * imagemagick (picture color grep)
 * slurp (region of screen for capture)
+* zsh-autosuggestions
+* zsh-completions
+* zsh-syntax-highlighting
 
 # Theming
 * awesome-terminal-fonts
@@ -31,6 +33,7 @@ It includes configs for all dependency packages used for ricing and doing every 
 * qt5ct
 * kvantum-qt5
 * gnome-themes-extra (adwaita theme & icons)
+* oh-my-zsh
 
 # Apps
 * zsh

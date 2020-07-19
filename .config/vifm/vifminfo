@@ -17,7 +17,7 @@
 # Bookmarks:
 
 # TUI:
-al
+ar
 q0
 v2
 ov
@@ -26,9 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/usr/share
-	cmus
-20
 d/usr/share/cmus
 	gruvbox.theme
 8
@@ -324,26 +321,14 @@ d/home/user/source/repos
 	sde-math
 6
 d/home/user/source/repos/sde-math
-	.gitignore
+	venv
 9
+d/home/user/source/repos
+	footballstars
+3
 d
 
 # Right window history (oldest to newest):
-D/home/user/.icons
-	Adwaita
-1
-D/home/user
-	.thumbnails
-9
-D/home/user/.thumbnails
-	..
-0
-D/home/user
-	.java
-5
-D/home/user/.java
-	..
-0
 D/home/user
 	.gnupg
 3
@@ -627,8 +612,23 @@ D/home/user/source/repos
 	course-work-opengl
 2
 D/home/user/source/repos/course-work-opengl
-	build
-2
+	include
+4
+D/home/user/source/repos
+	sway-dotfiles
+7
+D/home/user/source/repos/sway-dotfiles
+	.pam_environment
+7
+D/home/user/source/repos
+	sway-dotfiles
+7
+D/home/user/source
+	repos
+1
+D/home/user
+	.zshrc
+31
 D
 
 # Command line history (oldest to newest):
@@ -715,7 +715,6 @@ D
 :!mkdir build
 :cmake ..
 :!cmake ..
-:q
 :!h
 :cd ~
 :git init
@@ -727,11 +726,12 @@ D
 :!git remote add github https://github.com/user160244980349/course-work-footballstars.git
 :!git push -u github master
 :set dotfiles
-:!./collect.sh
 :!git add .
 :!git commit -m "Bar changes, sway modes in bar"
 :!git push github
 :hide
+:q
+:!./collect.sh
 
 # Search history (oldest to newest):
 /waybar
@@ -776,7 +776,13 @@ plucy
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/user/.local/share/vifm/Trash/000_venv
+""/home/user/.local/share/vifm/Trash/016_.config
+""/home/user/.local/share/vifm/Trash/003_.local
+""/home/user/.local/share/vifm/Trash/013_.Xresources
+""/home/user/.local/share/vifm/Trash/012_.gitconfig
+""/home/user/.local/share/vifm/Trash/014_.gtkrc-2.0
+""/home/user/.local/share/vifm/Trash/016_.pam_environment
+""/home/user/.local/share/vifm/Trash/015_.zshrc
 
 # Directory stack (oldest to newest):
 
