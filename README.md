@@ -62,5 +62,4 @@ gtk-update-icon-cache $HOME/.icons/Adwaita
 ```
 
 # TODO
-* Configure zsh
-
+-
