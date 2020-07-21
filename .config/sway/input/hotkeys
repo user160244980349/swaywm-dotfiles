@@ -1,5 +1,6 @@
 
 set $mod Mod4
+floating_modifier $mod normal
 
 input type:touchpad {
     dwt                 enabled
@@ -64,6 +65,7 @@ bindsym --to-code {
     $mod+Shift+space    floating toggle
     $mod+space          focus mode_toggle
     $mod+a              focus parent
+
     $mod+Shift+minus    move scratchpad
     $mod+minus          scratchpad show
 

@@ -103,13 +103,7 @@ HISTFILE=~/.histfile
 HISTSIZE=1000
 SAVEHIST=1000
 
-bindkey -e
-# End of lines configured by zsh-newuser-install
-# The following lines were added by compinstall
-zstyle :compinstall filename '/home/user/.zshrc'
-
 # Load completion plugin
-autoload -U compinit && compinit
 zstyle ':completion:*' menu select
 setopt completealiases
 
@@ -123,7 +117,6 @@ alias wiref='nmcli device reapply wlp3s0'
 alias wicon='nmcli device connect wlp3s0'
 alias widis='nmcli device disconnect wlp3s0'
 alias winew='nmcli device wifi connect'
-alias h="cd ~"
 
 if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
 	exec sway &> $HOME/.swaylog

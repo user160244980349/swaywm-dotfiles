@@ -26,42 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/usr/share/cmus
-	gruvbox.theme
-8
-d/home/user
-	study
-8
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	vkr
-2
-d/home/user/study/дипыч/vkr
-	Competence questions for PrivacyPolicy.docx
-6
-d/home/user/study/дипыч
-	..
-0
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	отчет_17_07_2020.pdf
-12
-d/home/user/study
-	дипыч
-1
-d/home/user
-	study
-8
-d/home
-	user
-1
-d/
-	lib
-5
 d/lib
 	glib-pacrunner
 30
@@ -326,63 +290,45 @@ d/home/user/source/repos/sde-math
 d/home/user/source/repos
 	footballstars
 3
+d/home/user/source
+	repos
+1
+d/home/user
+	source
+17
+d/home/user/source
+	repos
+1
+d/home/user
+	study
+18
+d/home/user/study
+	notes.txt
+3
+d/home/user
+	Downloads
+12
+d/home/user/Downloads
+	DSCN7586.JPG
+2
+d/home/user
+	study
+18
+d/home/user/study
+	таски
+2
+d/home/user/study/таски
+	программы
+3
+d/home/user/study
+	дипыч
+1
+d/home/user/study/дипыч
+	gdpr.pdf
+6
 d
 
 # Right window history (oldest to newest):
-D/home/user/.config
-	waybar
-20
-D/home/user/.config/waybar
-	config-eDP
-2
-D/home/user/.config
-	sway
-16
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config/sway/wm
-	appereance
-1
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config/sway/wm
-	appereance
-1
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config/sway/wm
-	autostart
-2
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config/sway/wm
-	autostart
-2
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config/sway/wm
-	autostart
-2
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config/sway/wm
-	bar
-3
-D/home/user/.config/sway
-	input
-1
-D/home/user/.config/sway/input
-	..
-0
-D/home/user/.config/sway
-	wm
-2
 D/home/user/.config/sway/wm
 	bar
 3
@@ -627,8 +573,62 @@ D/home/user/.config
 	waybar
 21
 D/home/user/.config/waybar
-	config
+	..
+0
+D/home/user/.config
+	waybar
+21
+D/home/user
+	.cache
+2
+D/home
+	user
 1
+D/home/user
+	source
+17
+D/home/user/source
+	repos
+1
+D/home/user/source/repos
+	sway-dotfiles
+7
+D/home/user/source/repos/sway-dotfiles
+	README.md
+9
+D/home/user/source/repos
+	sway-dotfiles
+7
+D/home/user/source
+	..
+0
+D/home/user
+	.config
+3
+D/home/user/.config
+	sway
+17
+D/home/user/.config/sway
+	wm
+2
+D/home/user/.config/sway/wm
+	appereance
+1
+D/home/user/.config/sway
+	wm
+2
+D/home/user/.config
+	sway
+17
+D/home/user/.config/sway
+	wm
+2
+D/home/user/.config
+	sway
+17
+D/home/user
+	.gnupg
+4
 D
 
 # Command line history (oldest to newest):
@@ -777,13 +777,7 @@ plucy
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/user/.local/share/vifm/Trash/017_.config
-""/home/user/.local/share/vifm/Trash/004_.local
-""/home/user/.local/share/vifm/Trash/014_.Xresources
-""/home/user/.local/share/vifm/Trash/013_.gitconfig
-""/home/user/.local/share/vifm/Trash/015_.gtkrc-2.0
-""/home/user/.local/share/vifm/Trash/017_.pam_environment
-""/home/user/.local/share/vifm/Trash/016_.zshrc
+""/home/user/Downloads/DSCN7586.JPG
 
 # Directory stack (oldest to newest):
 
