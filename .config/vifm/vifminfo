@@ -26,45 +26,297 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/lib
-	glib-pacrunner
-30
-d/
-	usr
-16
-d/usr
-	include
+d/home/user/music/1349 - The Infernal Pathway (2019) (Lossless)
+	02. Through Eyes of Stone.flac
 2
-d/usr/include
-	KHR
+d/home/user/music
+	Vananidr
+32
+d/home/user/music/Vananidr
+	2020 - Damnation
+1
+d/home/user/music
+	The Ruins Of Beverast
+31
+d/home/user/music/The Ruins Of Beverast
+	..
+0
+d/home/user/music
+	Vananidr
+32
+d/home/user/music/Vananidr
+	2020 - Damnation
+1
+d/home/user/music/Vananidr/2020 - Damnation
+	..
+0
+d/home/user/music/Vananidr
+	2020 - Damnation
+1
+d/home/user/music
+	1349
+1
+d/home/user/music/1349
+	1349 - The Infernal Pathway (2019) (Lossless)
+1
+d/home/user/music
+	1349
+1
+d/home/user/music/1349
+	2019 - The Infernal Pathway
+1
+d/home/user/music
+	1349
+1
+d/home/user/music/1349
+	2019 - The Infernal Pathway
+1
+d/home/user/music/1349/2019 - The Infernal Pathway
+	09. Dødskamp (Album Edit).flac
+9
+d/home/user/music/1349
+	2019 - The Infernal Pathway
+1
+d/home/user/music
+	Aaskereia
+2
+d/home/user/music/Aaskereia
+	2011 - Dort, Wo das Alte Base Ruht
+1
+d/home/user/music
+	Abaroth
+3
+d/home/user/music/Abaroth
+	..
+0
+d/home/user/music
+	Aaskereia
+2
+d/home/user/music/Aaskereia
+	2011 - Dort, Wo das Alte Base Ruht
+1
+d/home/user/music
+	Amon Amarth
+4
+d/home/user/music/Amon Amarth
+	..
+0
+d/home/user/music
+	Angel Dust
+5
+d/home/user/music/Angel Dust
+	2016 - Into the Dark Past
+1
+d/home/user/music
+	Arkona
+6
+d/home/user/music/Arkona
+	2019 - Age Of Capricorn
+1
+d/home/user/music
+	Bestia
+7
+d/home/user/music/Bestia
+	2020 - Cold winds of death
+1
+d/home/user/music
+	1349
+1
+d/home/user/music/1349
+	2019 - The Infernal Pathway
+1
+d/home/user/music/1349/2019 - The Infernal Pathway
+	Cover.jpg
+12
+d/home/user/music/1349
+	2019 - The Infernal Pathway
+1
+d/home/user/music
+	..
+0
+d/home/user
+	resources
+6
+d/home/user/resources
+	..
+0
+d/home/user
+	nltk_data
+5
+d/home/user/nltk_data
+	..
+0
+d/home/user
+	music
+4
+d/home/user/music
+	..
+0
+d/home/user
+	wallpapers
 10
-d/usr/include/KHR
+d/home/user/wallpapers
 	..
 0
-d/usr/include
-	glm
-30
-d/usr/include/glm
-	detail
+d/home/user
+	media
+3
+d/home/user/media
+	mtp
 1
-d/usr/include/glm/detail
+d/home/user/media/mtp
 	..
 0
-d/usr/include/glm
-	detail
+d/home/user/media
+	mtp
 1
-d/usr/include/glm/detail
-	type_mat3x4.hpp
-28
-d/usr/include/glm
-	mat2x2.hpp
-14
-d/usr/include
-	glibmm-2.4
-29
-d/usr
-	include
+d/home/user/media/mtp
+	..
+0
+d/home/user/media
+	mtp
+1
+d/home/user/media/mtp
+	..
+0
+d/home/user/media
+	mtp
+1
+d/home/user/media/mtp
+	..
+0
+d/home/user/media
+	mtp
+1
+d/home/user
+	media
+3
+d/home/user/media
+	mtp
+1
+d/home/user/media/mtp
+	..
+0
+d/home/user/media
+	mtp
+1
+d/home/user
+	media
+3
+d/home/user/media
+	mtp
+1
+d/home/user/media/mtp
+	Внутренний общий накопитель
+1
+d/home/user/media/mtp/Внутренний общий накопитель
+	Music
+5
+d/home/user/media/mtp/Внутренний общий накопитель/Music
+	1349
+1
+d/home/user/media/mtp
+	..
+0
+d/home/user/media
+	mtp
+1
+d/home/user
+	resources
+6
+d/home/user/resources
+	VAST2014
+1
+d/home/user/resources/VAST2014
+	..
+0
+d/home/user/resources
+	privacy-ontolicy
 2
+d/home/user/resources/privacy-ontolicy
+	..
+0
+d/home/user/resources
+	privacy-ontolicy
+2
+d/home/user/resources/privacy-ontolicy
+	..
+0
+d/home/user/resources
+	privacy-ontolicy
+2
+d/home/user
+	resources
+6
+d/home/user/resources
+	privacy-ontolicy
+2
+d/home/user/resources/privacy-ontolicy
+	articles.txt
+1
+d/home/user/resources
+	privacy-ontolicy
+2
+d/home/user
+	study
+8
+d/home/user/study
+	дипыч
+1
+d/home/user/study/дипыч
+	datasets
+1
+d/home/user/study/дипыч/datasets
+	APP-350_v1.1
+1
+d/home/user/study/дипыч/datasets/APP-350_v1.1
+	..
+0
+d/home/user/study/дипыч/datasets
+	APP-350_v1.1
+1
+d/home/user/study/дипыч/datasets/APP-350_v1.1
+	original_documents
+3
+d/home/user/study/дипыч/datasets/APP-350_v1.1/original_documents
+	1.html
+1
+d/home/user/study/дипыч/datasets/APP-350_v1.1
+	README.md
+5
+d/home/user/study/дипыч/datasets
+	MAPS Policies Dataset
+2
+d/home/user/study/дипыч
+	отчет_07_08_2020.odt
+11
+d/home/user/study
+	дипыч
+1
+d/home/user
+	resources
+6
+d/home/user/resources
+	privacy-ontolicy
+2
+d/home/user/resources/privacy-ontolicy
+	articles.txt
+1
+d/home/user/resources
+	privacy-ontolicy
+2
+d/home/user/resources/privacy-ontolicy
+	39.txt
+31
+d/home/user/resources
+	privacy-ontolicy
+2
+d/home/user
+	resources
+6
+d/home
+	user
+1
 d/
 	home
 4
@@ -72,401 +324,11 @@ d/home
 	user
 1
 d/home/user
-	study
-8
-d/home
-	user
-1
-d/
-	usr
-16
-d/usr
-	include
-2
-d/usr/include
-	SDL
-4
-d/usr/include/SDL
-	..
-0
-d/usr/include
-	SDL2
-5
-d/usr/include/SDL2
-	SDL_video.h
-31
-d/home/user
-	media
-3
-d/home/user/media
-	drives
-1
-d/home/user/media/drives
-	GSP1RMCPRXF
-1
-d/home/user/media/drives/GSP1RMCPRXF
 	resources
-4
-d/home/user/media/drives
-	GSP1RMCPRXF
-1
-d/home/user/media/drives/GSP1RMCPRXF
-	resources
-4
-d/home/user/media/drives/GSP1RMCPRXF/resources
-	..
-0
-d/home/user/media/drives/GSP1RMCPRXF
-	footballstars
-2
-d/home/user/media/drives
-	GSP1RMCPRXF
-1
-d/home/user/media
-	drives
-1
-d/home/user
-	source
-7
-d/home/user/source
-	repos
-1
-d/home/user/source/repos
-	course-work-opengl
-2
-d/home/user/source/repos/course-work-opengl
-	resources
-4
-d/home/user/source/repos
-	footballstars
-3
-d/home/user/source/repos/footballstars
-	_cmake_modules
-1
-d/home/user/source/repos
-	course-work-opengl
-2
-d/home/user/source/repos/course-work-opengl
-	resources
-4
-d/home/user/source/repos/course-work-opengl/resources
-	models
-1
-d/home/user/source/repos/course-work-opengl/resources/models
-	lucy
-1
-d/home/user/source/repos/course-work-opengl/resources/models/lucy
-	..
-0
-d/home/user/source/repos/course-work-opengl/resources/models
-	lucy
-1
-d/home/user/source/repos/course-work-opengl/resources
-	models
-1
-d/home/user/source/repos/course-work-opengl/resources/models
-	Lucy
-1
-d/home/user/source/repos/course-work-opengl/resources/models/Lucy
-	lucy.obj
-4
-d/home/user/source/repos/course-work-opengl/resources/models
-	lucy
-1
-d/home/user/source/repos/course-work-opengl/resources
-	models
-1
-d/home/user/source/repos/course-work-opengl/resources/models
-	lucy
-1
-d/home/user/source/repos/course-work-opengl/resources/models/lucy
-	lucy.obj
-4
-d/home/user/source/repos/course-work-opengl/resources/models
-	lucy
-1
-d/home/user/source/repos/course-work-opengl/resources
-	models
-1
-d/home/user/source/repos/course-work-opengl
-	resources
-4
-d/home/user/source/repos
-	footballstars
-3
-d/home/user/source/repos/footballstars
-	_resources
-2
-d/home/user/source/repos/footballstars/_resources
-	..
-0
-d/home/user/source/repos/footballstars
-	include
-3
-d/home/user/source/repos/footballstars/include
-	Scoreboard.h
-10
-d/home/user/source/repos/footballstars
-	sources
-4
-d/home/user/source/repos
-	minesweaper
-4
-d/home/user/source/repos/minesweaper
-	include
-3
-d/home/user/source/repos/minesweaper/include
-	ResetButton.h
-4
-d/home/user/source/repos/minesweaper
-	sources
-4
-d/home/user/source/repos/minesweaper/sources
-	Button.cpp
-2
-d/home/user/source/repos/minesweaper
-	include
-3
-d/home/user/source/repos/minesweaper/include
-	ResetButton.h
-4
-d/home/user/source/repos/minesweaper
-	_cmake_modules
-1
-d/home/user/source/repos/minesweaper/_cmake_modules
-	copy_resources.cmake
-5
-d/home/user/source/repos/minesweaper
-	_cmake_modules
-1
-d/home/user/source/repos/minesweaper/_cmake_modules
-	copy_resources.cmake
-5
-d/home/user/source/repos/minesweaper
-	_resources
-2
-d/home/user/source/repos
-	minesweaper
-4
-d/home/user/source/repos/minesweaper
-	_cmake_modules
-1
-d/home/user/source/repos
-	footballstars
-3
-d/home/user/source/repos/footballstars
-	_resources
-2
-d/home/user/source/repos
-	course-work-opengl
-2
-d/home/user/source/repos/course-work-opengl
-	resources
-4
-d/home/user/source/repos
-	course-work-opengl
-2
-d/home/user/source
-	repos
-1
-d/home/user
-	source
-7
-d/home/user/source
-	repos
-1
-d/home/user/source/repos
-	sway-dotfiles
-7
-d/home/user/source/repos/sway-dotfiles
-	.gitconfig
-5
-d/home/user/source/repos
-	sde-math
-6
-d/home/user/source/repos/sde-math
-	venv
-9
-d/home/user/source/repos
-	footballstars
-3
-d/home/user/source
-	repos
-1
-d/home/user
-	source
-17
-d/home/user/source
-	repos
-1
-d/home/user
-	study
-18
-d/home/user/study
-	notes.txt
-3
-d/home/user
-	Downloads
-12
-d/home/user/Downloads
-	DSCN7586.JPG
-2
-d/home/user
-	study
-18
-d/home/user/study
-	таски
-2
-d/home/user/study/таски
-	программы
-3
-d/home/user/study
-	дипыч
-1
-d/home/user/study/дипыч
-	gdpr.pdf
 6
 d
 
 # Right window history (oldest to newest):
-D/home/user/.config/sway/wm
-	bar
-3
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config/sway/wm
-	appereance
-1
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config
-	waybar
-20
-D/home/user/.config/waybar
-	config-eDP
-2
-D/home/user/.config
-	wofi
-21
-D/home/user/.config/wofi
-	..
-0
-D/home/user/.config
-	waybar
-20
-D/home/user/.config/waybar
-	config-eDP
-2
-D/home/user/.config
-	vifm
-19
-D/home/user/.config/vifm
-	vifminfo_2923
-5
-D/home/user/.config
-	sway
-16
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config/sway/wm
-	autostart
-2
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config/sway/wm
-	autostart
-2
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config
-	waybar
-20
-D/home/user/.config/waybar
-	config
-1
-D/home/user/.config
-	waybar
-20
-D/home/user/.config/waybar
-	style1.css
-3
-D/home/user/.config
-	sway
-16
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config/sway/wm
-	appereance
-1
-D/home/user/.config/sway
-	wm
-2
-D/home/user/.config
-	waybar
-20
-D/home/user/.config/waybar
-	style.css
-2
-D/home/user/.config
-	waybar
-20
-D/home/user/.config/waybar
-	style.css
-2
-D/home/user/.config
-	waybar
-20
-D/home/user
-	source
-16
-D/home/user/source
-	repos
-1
-D/home/user/source/repos
-	sway-dotfiles
-5
-D/home/user/source/repos/sway-dotfiles
-	.local
-3
-D/home/user/source/repos
-	sway-dotfiles
-5
-D/home/user/source
-	repos
-1
-D/home/user
-	.config
-3
-D/home/user/.config
-	waybar
-21
-D/home/user/.config/waybar
-	style.css
-2
-D/home/user/.config
-	waybar
-21
-D/home/user/.config/waybar
-	config
-1
-D/home/user/.config
-	waybar
-21
-D/home/user
-	source
-16
-D/home/user/source
-	repos
-1
-D/home/user/source/repos
-	course-work-opengl
-2
 D/home/user/source/repos/course-work-opengl
 	build
 2
@@ -627,39 +489,149 @@ D/home/user/.config
 	sway
 17
 D/home/user
-	.gnupg
-4
+	source
+17
+D/home/user/source
+	repos
+1
+D/home/user/source/repos
+	course-work-opengl
+2
+D/home/user/source/repos/course-work-opengl
+	cmake-scripts
+3
+D/home/user/source/repos/course-work-opengl/cmake-scripts
+	FindSDL2_mixer.cmake
+3
+D/home/user/source/repos/course-work-opengl
+	build
+2
+D/home/user/source/repos/course-work-opengl/build
+	course_work_opengl
+5
+D/home/user/source/repos/course-work-opengl
+	sources
+6
+D/home/user/source/repos
+	..
+0
+D/home/user/source
+	repos
+1
+D/home/user
+	source
+17
+D/home
+	user
+1
+D/
+	home
+5
+D/home
+	user
+1
+D/home/user
+	music
+12
+D/home/user/music
+	Vananidr
+40
+D/home/user
+	study
+18
+D/home/user/study
+	дипыч
+1
+D/home/user/study/дипыч
+	1596031212_grim.png
+5
+D/home/user/study
+	дипыч
+1
+D/home/user
+	resources
+16
+D/home/user/resources
+	VAST2014
+1
+D/home/user
+	study
+18
+D/home/user/study
+	дипыч
+1
+D/home/user/study/дипыч
+	datasets
+1
+D/home/user/study/дипыч/datasets
+	APP-350_v1.1
+1
+D/home/user/study/дипыч/datasets/APP-350_v1.1
+	original_documents
+3
+D/home/user/study/дипыч/datasets/APP-350_v1.1/original_documents
+	1.html
+1
+D/home/user/study/дипыч/datasets/APP-350_v1.1
+	annotations
+1
+D/home/user/study/дипыч/datasets/APP-350_v1.1/annotations
+	policy_13.yml
+13
+D/home/user/study/дипыч/datasets/APP-350_v1.1
+	documentation
+2
+D/home/user/study/дипыч/datasets/APP-350_v1.1/documentation
+	..
+0
+D/home/user/study/дипыч/datasets/APP-350_v1.1
+	original_documents
+3
+D/home/user/study/дипыч/datasets/APP-350_v1.1/original_documents
+	36.html
+30
+D/home/user/study/дипыч/datasets/APP-350_v1.1
+	original_documents
+3
+D/home/user/study/дипыч/datasets
+	APP-350_v1.1
+1
+D/home/user/study/дипыч
+	datasets
+1
+D/home/user/study
+	дипыч
+1
+D/home/user
+	.config
+3
+D/home/user/.config
+	sway
+18
+D/home/user/.config/sway
+	input
+1
+D/home/user/.config/sway/input
+	..
+0
+D/home/user/.config/sway
+	wm
+2
+D/home/user/.config/sway/wm
+	appereance
+1
+D/home/user/.config/sway
+	wm
+2
+D/home/user/.config/sway/wm
+	appereance
+1
+D/home/user/.config/sway
+	lock.sh
+7
 D
 
 # Command line history (oldest to newest):
-:!sudo vim gephi.conf
-:!vim yEd
-:!vim yEd.desktop
-:!vim mimeinfo.cache
-:!vim color_picker.sh
-:!chmod +x ./color_picker.sh
-:!vim termainal_replace.sh
-:!chmod +x terminal_replace.sh
-:!chmod +x termainal_replace.sh
-:!./terminal_replace.sh
-:!mkdir mako
-:!./
-:set dotdirs
-:set dotfiles q
-:set dotfiles 1
-:mkdir termite
-:vifm config
-:!vifm config
-:!vim config
-:set !dotfiles
-:set dotfiles:normal
-:windo normal! zo
-:set dotfiles!
-:!mkdir wallpapers
-:vim .vimrc
-:!vim .vimrc
-:!ln -s ~/.config/mimeapps.list mimeapps.list
-:! git add .
 :! git commit -m "Improved ricing"
 :!firefox Ста
 :!firefox Статья-1.pdf
@@ -714,7 +686,6 @@ D
 :!git commit -m "Cleanup"
 :!mkdir build
 :cmake ..
-:!cmake ..
 :!h
 :cd ~
 :git init
@@ -729,9 +700,38 @@ D
 :!git add .
 :!git commit -m "Bar changes, sway modes in bar"
 :!git push github
-:hide
 :!./collect.sh
+:!make
+:!./footballstars
+:hide
+:!cmake ..
+:set dotfiles!
 :q
+:!md 1349
+:!md privacy-ontolicy
+:!mkdir privacy-ontolicy
+:!vim arricles.txt
+:touch 1.txt
+:touch 2.txt
+:touch 3.txt
+:touch 4.txt
+:touch 5.txt
+:touch 6.txt
+:touch 7.txt
+:touch 8.txt
+:touch 9.txt
+:touch 10.txt
+:touch 1q.txt
+:touch 11.txt
+:touch 12.txt
+:touch 13.txt
+:touch 14.txt
+:touch 15.txt
+:touch 16.txt
+:touch 17.txt
+:touch 18.txt
+:touch 19.txt
+:touch 20.txt
 
 # Search history (oldest to newest):
 /waybar
@@ -773,11 +773,35 @@ pprivacy-ontolicy
 pconfig
 pLucy
 plucy
+pcmake-modules
+p2020 - Damnation
+p2019 - The Infernal Pathway
+particles.txt
+pотчет_07_08_2020.odt
+p21.txt
+p66.txt
+p27.txt
+p28.txt
+p29.txt
+p30.txt
+p31.txt
+p32.txt
+p33.txt
+p34.txt
+p35.txt
+p36.txt
+p37.txt
+p38.txt
+p39.txt
+p40.txt
+p26.txt
+plock-edp.png
+plock-hdmi.png
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/user/Downloads/DSCN7586.JPG
+""/home/user/.config/sway/lock-edp.png
 
 # Directory stack (oldest to newest):
 
@@ -1024,11 +1048,137 @@ t/home/user/.local/share/vifm/Trash/001_neofetch
 	/home/user/.config/neofetch
 t/home/user/.local/share/vifm/Trash/000_pcmanfm
 	/home/user/.config/pcmanfm
+t/home/user/.local/share/vifm/Trash/005_CMakeFiles
+	/home/user/source/repos/footballstars/build/CMakeFiles
+t/home/user/.local/share/vifm/Trash/005_CMakeCache.txt
+	/home/user/source/repos/footballstars/build/CMakeCache.txt
+t/home/user/.local/share/vifm/Trash/005_Makefile
+	/home/user/source/repos/footballstars/build/Makefile
+t/home/user/.local/share/vifm/Trash/005_cmake_install.cmake
+	/home/user/source/repos/footballstars/build/cmake_install.cmake
+t/home/user/.local/share/vifm/Trash/000_footballstars
+	/home/user/source/repos/footballstars/build/footballstars
+t/home/user/.local/share/vifm/Trash/000_VAST2014
+	/home/user/source/repos/VAST2014
+t/home/user/.local/share/vifm/Trash/000_course-work-opengl
+	/home/user/source/repos/course-work-opengl
+t/home/user/.local/share/vifm/Trash/001_footballstars
+	/home/user/source/repos/footballstars
+t/home/user/.local/share/vifm/Trash/000_minesweaper
+	/home/user/source/repos/minesweaper
+t/home/user/.local/share/vifm/Trash/009_CMakeFiles
+	/home/user/source/repos/game/cmake_build/CMakeFiles
+t/home/user/.local/share/vifm/Trash/000_assets_module
+	/home/user/source/repos/game/cmake_build/assets_module
+t/home/user/.local/share/vifm/Trash/000_bootstrap
+	/home/user/source/repos/game/cmake_build/bootstrap
+t/home/user/.local/share/vifm/Trash/000_input_module
+	/home/user/source/repos/game/cmake_build/input_module
+t/home/user/.local/share/vifm/Trash/000_libraries_loader
+	/home/user/source/repos/game/cmake_build/libraries_loader
+t/home/user/.local/share/vifm/Trash/000_log_module
+	/home/user/source/repos/game/cmake_build/log_module
+t/home/user/.local/share/vifm/Trash/000_physics_module
+	/home/user/source/repos/game/cmake_build/physics_module
+t/home/user/.local/share/vifm/Trash/000_render_module
+	/home/user/source/repos/game/cmake_build/render_module
+t/home/user/.local/share/vifm/Trash/007_CMakeCache.txt
+	/home/user/source/repos/game/cmake_build/CMakeCache.txt
+t/home/user/.local/share/vifm/Trash/007_Makefile
+	/home/user/source/repos/game/cmake_build/Makefile
+t/home/user/.local/share/vifm/Trash/007_cmake_install.cmake
+	/home/user/source/repos/game/cmake_build/cmake_install.cmake
+t/home/user/.local/share/vifm/Trash/000_1595764284_grim.png
+	/home/user/1595764284_grim.png
+t/home/user/.local/share/vifm/Trash/000_Vananidr - Damnation (2020)
+	/home/user/music/Vananidr - Damnation (2020)
+t/home/user/.local/share/vifm/Trash/000_1349 - The Infernal Pathway (2019) (Lossless)
+	/home/user/music/1349 - The Infernal Pathway (2019) (Lossless)
+t/home/user/.local/share/vifm/Trash/001_1349 - The Infernal Pathway (2019) (Lossless)
+	/home/user/Downloads/1349 - The Infernal Pathway (2019) (Lossless)
+t/home/user/.local/share/vifm/Trash/001_Vananidr - Damnation (2020)
+	/home/user/Downloads/Vananidr - Damnation (2020)
+t/home/user/.local/share/vifm/Trash/000_1349 - The Infernal Pathway Lossless - Metal-Tracker.com.torrent
+	/home/user/Downloads/1349 - The Infernal Pathway Lossless - Metal-Tracker.com.torrent
+t/home/user/.local/share/vifm/Trash/000_1801.00784v10.pdf
+	/home/user/Downloads/1801.00784v10.pdf
+t/home/user/.local/share/vifm/Trash/000_82581580.pdf
+	/home/user/Downloads/82581580.pdf
+t/home/user/.local/share/vifm/Trash/000_DSCN7586.JPG
+	/home/user/Downloads/DSCN7586.JPG
+t/home/user/.local/share/vifm/Trash/000_MAPLE-for-SDE.pdf
+	/home/user/Downloads/MAPLE-for-SDE.pdf
+t/home/user/.local/share/vifm/Trash/000_Nordic.tar.xz
+	/home/user/Downloads/Nordic.tar.xz
+t/home/user/.local/share/vifm/Trash/000_TurdakovDY.pdf
+	/home/user/Downloads/TurdakovDY.pdf
+t/home/user/.local/share/vifm/Trash/000_Vananidr - Damnation - Metal-Tracker.com.torrent
+	/home/user/Downloads/Vananidr - Damnation - Metal-Tracker.com.torrent
+t/home/user/.local/share/vifm/Trash/000_image.png
+	/home/user/Downloads/image.png
+t/home/user/.local/share/vifm/Trash/000_imageedit_1_8595074722.png
+	/home/user/Downloads/imageedit_1_8595074722.png
+t/home/user/.local/share/vifm/Trash/000_pattern_paper_3.pdf
+	/home/user/Downloads/pattern_paper_3.pdf
+t/home/user/.local/share/vifm/Trash/000_swj1387.pdf
+	/home/user/Downloads/swj1387.pdf
+t/home/user/.local/share/vifm/Trash/000_articles.txt
+	/home/user/resources/privacy-ontolicy/articles.txt
+t/home/user/.local/share/vifm/Trash/000_1.html
+	/home/user/resources/privacy-ontolicy/1.html
+t/home/user/.local/share/vifm/Trash/000_2.html
+	/home/user/resources/privacy-ontolicy/2.html
+t/home/user/.local/share/vifm/Trash/000_3.html
+	/home/user/resources/privacy-ontolicy/3.html
+t/home/user/.local/share/vifm/Trash/000_4.html
+	/home/user/resources/privacy-ontolicy/4.html
+t/home/user/.local/share/vifm/Trash/000_5.html
+	/home/user/resources/privacy-ontolicy/5.html
+t/home/user/.local/share/vifm/Trash/000_6.html
+	/home/user/resources/privacy-ontolicy/6.html
+t/home/user/.local/share/vifm/Trash/000_7.html
+	/home/user/resources/privacy-ontolicy/7.html
+t/home/user/.local/share/vifm/Trash/000_8.html
+	/home/user/resources/privacy-ontolicy/8.html
+t/home/user/.local/share/vifm/Trash/000_9.html
+	/home/user/resources/privacy-ontolicy/9.html
+t/home/user/.local/share/vifm/Trash/000_10.html
+	/home/user/resources/privacy-ontolicy/10.html
+t/home/user/.local/share/vifm/Trash/000_11.html
+	/home/user/resources/privacy-ontolicy/11.html
+t/home/user/.local/share/vifm/Trash/000_12.html
+	/home/user/resources/privacy-ontolicy/12.html
+t/home/user/.local/share/vifm/Trash/000_13.html
+	/home/user/resources/privacy-ontolicy/13.html
+t/home/user/.local/share/vifm/Trash/000_14.html
+	/home/user/resources/privacy-ontolicy/14.html
+t/home/user/.local/share/vifm/Trash/000_15.html
+	/home/user/resources/privacy-ontolicy/15.html
+t/home/user/.local/share/vifm/Trash/000_16.html
+	/home/user/resources/privacy-ontolicy/16.html
+t/home/user/.local/share/vifm/Trash/000_17.html
+	/home/user/resources/privacy-ontolicy/17.html
+t/home/user/.local/share/vifm/Trash/000_18.html
+	/home/user/resources/privacy-ontolicy/18.html
+t/home/user/.local/share/vifm/Trash/000_19.html
+	/home/user/resources/privacy-ontolicy/19.html
+t/home/user/.local/share/vifm/Trash/000_20.html
+	/home/user/resources/privacy-ontolicy/20.html
+t/home/user/.local/share/vifm/Trash/000_1q.txt
+	/home/user/resources/privacy-ontolicy/1q.txt
+t/home/user/.local/share/vifm/Trash/000_2.txt
+	/home/user/resources/privacy-ontolicy/2.txt
+t/home/user/.local/share/vifm/Trash/000_3.txt
+	/home/user/resources/privacy-ontolicy/3.txt
+t/home/user/.local/share/vifm/Trash/000_4.txt
+	/home/user/resources/privacy-ontolicy/4.txt
+t/home/user/.local/share/vifm/Trash/000_5.txt
+	/home/user/resources/privacy-ontolicy/5.txt
 
 # State:
 f
 i1
-[.0
+[.1
 [F
 F
 I1

@@ -5,7 +5,7 @@ set $term        xterm
 set $menu        wofi
 set $storage	 udiskie
 set $colorpicker grim -g "$(slurp -p)" -t ppm - | convert - -format '%[pixel:p{0,0}]' txt:- >> $HOME/.config/sway/colors.txt
-set $screenshot  grim -g "$(slurp -d)" - | wl-copy
+set $screenshot  grim -g "$(slurp -d)" $(date +'%s_grim.png') | wl-copy
 set $waybar      waybar
 
 set $notifications  mako

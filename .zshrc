@@ -103,12 +103,16 @@ HISTFILE=~/.histfile
 HISTSIZE=1000
 SAVEHIST=1000
 
+# No duplicate history commands
+setopt HIST_FIND_NO_DUPS
+setopt HIST_SAVE_NO_DUPS
+
 # Load completion plugin
 zstyle ':completion:*' menu select
 setopt completealiases
 
 # End of lines added by compinstall
-alias mtpm='go-mtpfs /run/media/user/mtp &> $HOME/.mtplog &; disown'
+alias mtpm='go-mtpfs /home/user/media/mtp &> $HOME/.mtplog &; disown'
 alias mtpu='fusermount -u /run/media/user/mtp'
 alias wistat='nmcli device status'
 alias wion='nmcli radio wifi on'
