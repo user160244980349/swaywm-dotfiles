@@ -26,9 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/user/music/1349 - The Infernal Pathway (2019) (Lossless)
-	02. Through Eyes of Stone.flac
-2
 d/home/user/music
 	Vananidr
 32
@@ -326,48 +323,12 @@ d/home
 d/home/user
 	resources
 6
+d/home/user/source/repos/sway-dotfiles
+	README.md
+1
 d
 
 # Right window history (oldest to newest):
-D/home/user/source/repos/course-work-opengl
-	build
-2
-D/home/user/source/repos/course-work-opengl/build
-	..
-0
-D/home/user/source/repos/course-work-opengl
-	build
-2
-D/home/user/source/repos/course-work-opengl/build
-	..
-0
-D/home/user/source/repos/course-work-opengl
-	build
-2
-D/home/user/source/repos/course-work-opengl/build
-	..
-0
-D/home/user/source/repos/course-work-opengl
-	build
-2
-D/home/user/source/repos
-	course-work-opengl
-2
-D/home/user/source
-	repos
-1
-D/home/user/source/repos
-	course-work-opengl
-2
-D/home/user/source/repos/course-work-opengl
-	include
-4
-D/home/user/source/repos
-	sway-dotfiles
-7
-D/home/user/source/repos/sway-dotfiles
-	.pam_environment
-7
 D/home/user/source/repos
 	sway-dotfiles
 7
@@ -627,8 +588,47 @@ D/home/user/.config/sway/wm
 	appereance
 1
 D/home/user/.config/sway
-	lock.sh
-7
+	input
+1
+D/home/user/.config
+	sway
+18
+D/home/user
+	source
+17
+D/home/user/source
+	repos
+1
+D/home/user/source/repos
+	sway-dotfiles
+4
+D/home/user/source/repos/sway-dotfiles
+	.config
+1
+D/home/user/source/repos/sway-dotfiles/.config
+	sway
+3
+D/home/user/source/repos/sway-dotfiles/.config/sway
+	input
+1
+D/home/user/source/repos/sway-dotfiles/.config/sway/input
+	..
+0
+D/home/user/source/repos/sway-dotfiles/.config/sway
+	wm
+2
+D/home/user/source/repos/sway-dotfiles/.config/sway/wm
+	..
+0
+D/home/user/source/repos/sway-dotfiles/.config/sway
+	applications
+3
+D/home/user/source/repos/sway-dotfiles/.config
+	waybar
+6
+D/home/user/source/repos/sway-dotfiles
+	.zshrc
+8
 D
 
 # Command line history (oldest to newest):
@@ -700,13 +700,11 @@ D
 :!git add .
 :!git commit -m "Bar changes, sway modes in bar"
 :!git push github
-:!./collect.sh
 :!make
 :!./footballstars
 :hide
 :!cmake ..
 :set dotfiles!
-:q
 :!md 1349
 :!md privacy-ontolicy
 :!mkdir privacy-ontolicy
@@ -732,6 +730,8 @@ D
 :touch 18.txt
 :touch 19.txt
 :touch 20.txt
+:!./collect.sh
+:q
 
 # Search history (oldest to newest):
 /waybar
@@ -801,7 +801,13 @@ plock-hdmi.png
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/user/.config/sway/lock-edp.png
+""/home/user/.local/share/vifm/Trash/020_.config
+""/home/user/.local/share/vifm/Trash/007_.local
+""/home/user/.local/share/vifm/Trash/017_.Xresources
+""/home/user/.local/share/vifm/Trash/016_.gitconfig
+""/home/user/.local/share/vifm/Trash/018_.gtkrc-2.0
+""/home/user/.local/share/vifm/Trash/020_.pam_environment
+""/home/user/.local/share/vifm/Trash/019_.zshrc
 
 # Directory stack (oldest to newest):
 
