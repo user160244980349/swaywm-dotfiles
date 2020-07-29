@@ -1,16 +1,19 @@
 #!/bin/bash
 
-$(rm $HOME/.config/sway/lock-edp.png;
-  grim   -o eDP-1 $HOME/.config/sway/lock-edp-raw.png;
-  ffmpeg -loglevel warning -f image2 -i $HOME/.config/sway/lock-edp-raw.png \
-         -filter "boxblur=3" -vframes 1 $HOME/.config/sway/lock-edp.png) &
+SCREENPATH="$HOME/.config/sway"
 
-$(rm $HOME/.config/sway/lock-hdmi.png;
-  grim   -o HDMI-A-1 $HOME/.config/sway/lock-hdmi-raw.png;
-  ffmpeg -loglevel warning -f image2 -i $HOME/.config/sway/lock-hdmi-raw.png \
-         -filter "boxblur=3" -vframes 1 $HOME/.config/sway/lock-hdmi.png) &
+getScreen () {
+    eval "rm $HOME/.config/sway/$2.png"
+    eval "grim   -o $1 $SCREENPATH/$2-raw.png"
+    eval "ffmpeg -loglevel warning -f image2 -i $SCREENPATH/$2-raw.png "\
+                "-filter_complex \"boxblur=luma_radius=4:luma_power=4\" "\
+                "-vframes 1 $SCREENPATH/$2.png"
+}
 
-wait $(jobs -p)
+getScreen "eDP-1"    "lock-edp" &
+getScreen "HDMI-A-1" "lock-hdmi" &
 
-swaylock -f -u -i    eDP-1:$HOME/.config/sway/lock-edp.png \
-               -i HDMI-A-1:$HOME/.config/sway/lock-hdmi.png
+wait
+
+swaylock -f -u -i    "eDP-1:$SCREENPATH/lock-edp.png" \
+               -i "HDMI-A-1:$SCREENPATH/lock-hdmi.png"

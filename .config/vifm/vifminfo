@@ -324,8 +324,8 @@ d/home/user
 	resources
 6
 d/home/user/source/repos/sway-dotfiles
-	README.md
-1
+	collect.sh
+2
 d
 
 # Right window history (oldest to newest):
@@ -627,8 +627,8 @@ D/home/user/source/repos/sway-dotfiles/.config
 	waybar
 6
 D/home/user/source/repos/sway-dotfiles
-	.zshrc
-8
+	README.md
+9
 D
 
 # Command line history (oldest to newest):
@@ -801,13 +801,13 @@ plock-hdmi.png
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/user/.local/share/vifm/Trash/020_.config
-""/home/user/.local/share/vifm/Trash/007_.local
-""/home/user/.local/share/vifm/Trash/017_.Xresources
-""/home/user/.local/share/vifm/Trash/016_.gitconfig
-""/home/user/.local/share/vifm/Trash/018_.gtkrc-2.0
-""/home/user/.local/share/vifm/Trash/020_.pam_environment
-""/home/user/.local/share/vifm/Trash/019_.zshrc
+""/home/user/.local/share/vifm/Trash/021_.config
+""/home/user/.local/share/vifm/Trash/008_.local
+""/home/user/.local/share/vifm/Trash/018_.Xresources
+""/home/user/.local/share/vifm/Trash/017_.gitconfig
+""/home/user/.local/share/vifm/Trash/019_.gtkrc-2.0
+""/home/user/.local/share/vifm/Trash/021_.pam_environment
+""/home/user/.local/share/vifm/Trash/020_.zshrc
 
 # Directory stack (oldest to newest):
 
