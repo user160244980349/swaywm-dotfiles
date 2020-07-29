@@ -26,15 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/user/music
-	Vananidr
-32
-d/home/user/music/Vananidr
-	2020 - Damnation
-1
-d/home/user/music
-	The Ruins Of Beverast
-31
 d/home/user/music/The Ruins Of Beverast
 	..
 0
@@ -324,44 +315,20 @@ d/home/user
 	resources
 6
 d/home/user/source/repos/sway-dotfiles
-	collect.sh
+	README.md
+1
+d/home/user
+	resources
+6
+d/home/user/resources
+	privacy-ontolicy
 2
+d/home/user
+	source
+7
 d
 
 # Right window history (oldest to newest):
-D/home/user/source/repos
-	sway-dotfiles
-7
-D/home/user/source
-	repos
-1
-D/home/user
-	.config
-3
-D/home/user/.config
-	wofi
-21
-D/home/user
-	source
-17
-D/home/user/source
-	repos
-1
-D/home/user/source/repos
-	sway-dotfiles
-7
-D/home/user/source/repos/sway-dotfiles
-	collect.sh
-10
-D/home/user/source/repos
-	sway-dotfiles
-7
-D/home/user/source
-	repos
-1
-D/home/user
-	.atom
-1
 D/home
 	user
 1
@@ -627,8 +594,41 @@ D/home/user/source/repos/sway-dotfiles/.config
 	waybar
 6
 D/home/user/source/repos/sway-dotfiles
-	README.md
-9
+	.git
+1
+D/home/user/source/repos/sway-dotfiles/.git
+	..
+0
+D/home/user/source/repos/sway-dotfiles
+	.local
+3
+D/home/user/source/repos
+	sway-dotfiles
+4
+D/home/user/source
+	repos
+1
+D/home/user
+	.config
+3
+D/home/user/.config
+	wofi
+23
+D/home/user/.config/wofi
+	style.css
+2
+D/home/user/.config
+	sway
+18
+D/home/user/.config/sway
+	wm
+2
+D/home/user/.config
+	waybar
+22
+D/home/user/.config/waybar
+	style.css
+2
 D
 
 # Command line history (oldest to newest):
@@ -801,13 +801,13 @@ plock-hdmi.png
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/user/.local/share/vifm/Trash/021_.config
-""/home/user/.local/share/vifm/Trash/008_.local
-""/home/user/.local/share/vifm/Trash/018_.Xresources
-""/home/user/.local/share/vifm/Trash/017_.gitconfig
-""/home/user/.local/share/vifm/Trash/019_.gtkrc-2.0
-""/home/user/.local/share/vifm/Trash/021_.pam_environment
-""/home/user/.local/share/vifm/Trash/020_.zshrc
+""/home/user/.local/share/vifm/Trash/022_.config
+""/home/user/.local/share/vifm/Trash/009_.local
+""/home/user/.local/share/vifm/Trash/019_.Xresources
+""/home/user/.local/share/vifm/Trash/018_.gitconfig
+""/home/user/.local/share/vifm/Trash/020_.gtkrc-2.0
+""/home/user/.local/share/vifm/Trash/022_.pam_environment
+""/home/user/.local/share/vifm/Trash/021_.zshrc
 
 # Directory stack (oldest to newest):
 

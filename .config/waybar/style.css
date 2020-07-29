@@ -22,6 +22,7 @@ window#waybar.firefox {
     background: #353535;
 }
 
+window#waybar.termite,
 window#waybar.xterm {
     background: #1d1f21;
 }
